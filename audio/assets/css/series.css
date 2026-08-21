@@ -1,0 +1,465 @@
+.series-page {
+  --page-glow: rgb(196 77 50 / 15%);
+  --soft-accent: #f2ddd5;
+  --note-text: #663325;
+  --spec-table-min-width: 1020px;
+}
+
+.stage-2-page {
+  --spec-table-min-width: 940px;
+}
+
+.studio-5-page {
+  --spec-table-min-width: 980px;
+}
+
+.classic-page {
+  --spec-table-min-width: 1040px;
+}
+
+.studio-monitor-page {
+  --spec-table-min-width: 1060px;
+}
+
+.summit-page {
+  --spec-table-min-width: 1080px;
+}
+
+.jbl-bar-page {
+  --spec-table-min-width: 1320px;
+}
+
+.jbl-bar-page h1 {
+  font-size: clamp(3rem, 8vw, 6.5rem);
+}
+
+.recording-broadcast-page {
+  --spec-table-min-width: 1380px;
+}
+
+.recording-broadcast-page h1 {
+  font-size: clamp(2.8rem, 7vw, 5.8rem);
+}
+
+.recording-broadcast-page .controller-table {
+  min-width: 1080px;
+}
+
+.recording-broadcast-page .table-group {
+  scroll-margin-top: 24px;
+}
+
+.klipsch-series-page {
+  --page-glow: rgb(179 70 38 / 15%);
+  --soft-accent: #f0ddd3;
+}
+
+.onkyo-series-page {
+  --page-glow: rgb(45 79 113 / 15%);
+  --soft-accent: #e6ebf0;
+  --note-text: #344d64;
+  --spec-table-min-width: 1180px;
+}
+
+.onkyo-ht-s-page {
+  --spec-table-min-width: 1260px;
+}
+
+.onkyo-rz-page {
+  --spec-table-min-width: 0;
+}
+
+.onkyo-rz-page .compact-model-table {
+  table-layout: fixed;
+  font-size: 0.86rem;
+}
+
+.onkyo-rz-page .compact-model-table thead th:first-child {
+  width: 20%;
+}
+
+.onkyo-rz-page .compact-model-table thead th:nth-child(2) {
+  width: 34%;
+}
+
+.onkyo-rz-page .compact-model-table tbody th {
+  white-space: normal;
+}
+
+.onkyo-rz-page .model-name,
+.onkyo-rz-page .model-summary {
+  display: block;
+}
+
+.onkyo-rz-page .model-name {
+  margin-bottom: 0.38rem;
+  color: var(--ink);
+  font-size: 0.92rem;
+}
+
+.onkyo-rz-page .model-summary {
+  margin-top: 0.28rem;
+  color: var(--muted);
+  font-size: 0.74rem;
+  line-height: 1.45;
+}
+
+.onkyo-rz-page .cell-specs {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+}
+
+.onkyo-rz-page .cell-specs div {
+  display: grid;
+  grid-template-columns: 5.2rem minmax(0, 1fr);
+  gap: 0.6rem;
+}
+
+.onkyo-rz-page .cell-specs dt {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.onkyo-rz-page .cell-specs dd {
+  margin: 0;
+  color: var(--ink);
+}
+
+@media (max-width: 700px) {
+  .onkyo-rz-page .compact-model-table,
+  .onkyo-rz-page .compact-model-table tbody,
+  .onkyo-rz-page .compact-model-table tr,
+  .onkyo-rz-page .compact-model-table th,
+  .onkyo-rz-page .compact-model-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .onkyo-rz-page .compact-model-table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    clip-path: inset(50%);
+  }
+
+  .onkyo-rz-page .compact-model-table tr {
+    padding: 1.1rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .onkyo-rz-page .compact-model-table th,
+  .onkyo-rz-page .compact-model-table td {
+    padding: 0.45rem 0;
+    border-bottom: 0;
+  }
+
+  .onkyo-rz-page .compact-model-table tbody th {
+    padding-bottom: 0.8rem;
+  }
+}
+
+.klipsch-reference-page {
+  --spec-table-min-width: 920px;
+}
+
+.klipsch-heritage-page {
+  --spec-table-min-width: 1120px;
+}
+
+.klipsch-rp-ii-page {
+  --spec-table-min-width: 1040px;
+}
+
+.klipsch-rp-iii-page {
+  --spec-table-min-width: 900px;
+}
+
+.klipsch-powered-ii-page {
+  --spec-table-min-width: 1120px;
+}
+
+.klipsch-powered-ii-page h1 {
+  font-size: clamp(2.8rem, 7vw, 5.8rem);
+}
+
+.klipsch-rp-subs-page {
+  --spec-table-min-width: 920px;
+}
+
+.klipsch-rp-subs-page h1,
+.klipsch-flexus-page h1 {
+  font-size: clamp(2.9rem, 7.5vw, 6.2rem);
+}
+
+.klipsch-flexus-page {
+  --spec-table-min-width: 1200px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  padding: 36px 0 56px;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(260px, 0.55fr);
+  gap: 54px;
+  align-items: end;
+  padding-top: 64px;
+}
+
+.series-page h1 {
+  margin: 0;
+  font-size: clamp(3.4rem, 9vw, 7rem);
+  font-weight: 600;
+  letter-spacing: -0.055em;
+  line-height: 0.9;
+}
+
+.klipsch-series-page h1 {
+  font-size: clamp(3.2rem, 8vw, 6.8rem);
+}
+
+.lead {
+  max-width: 700px;
+  margin: 30px 0 0;
+  color: var(--muted);
+  font-size: 1.06rem;
+}
+
+.klipsch-series-page .lead {
+  font-size: 1.04rem;
+}
+
+main {
+  padding-bottom: 76px;
+}
+
+h2 {
+  font-family: Georgia, "Noto Serif TC", "Songti TC", serif;
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+}
+
+.spec-section {
+  padding: 48px 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.klipsch-series-page .spec-section {
+  padding-top: 58px;
+  scroll-margin-top: 24px;
+}
+
+.klipsch-series-page .spec-section + .spec-section {
+  margin-top: 68px;
+}
+
+.section-heading {
+  align-items: end;
+  gap: 28px;
+  margin-bottom: 20px;
+}
+
+.klipsch-series-page .section-heading p {
+  max-width: 450px;
+  font-size: 0.86rem;
+  text-align: right;
+}
+
+.shared-design {
+  margin: 0 0 20px;
+  padding-left: 14px;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.shared-design strong {
+  color: var(--accent-dark);
+}
+
+.spec-table-wrap {
+  overflow-x: auto;
+  border-top: 2px solid var(--ink);
+}
+
+table {
+  width: 100%;
+  min-width: var(--spec-table-min-width);
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+.powered-table {
+  min-width: 860px;
+}
+
+.sub-table {
+  min-width: 800px;
+}
+
+th,
+td {
+  padding: 15px 13px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  color: var(--muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+}
+
+tbody th {
+  color: var(--ink);
+  font-size: 0.84rem;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.table-group th {
+  padding-block: 10px;
+  background: rgb(179 70 38 / 7%);
+  color: var(--accent-dark);
+  font-size: 0.7rem;
+  letter-spacing: 0.09em;
+}
+
+.type {
+  color: var(--accent-dark);
+  font-weight: 750;
+}
+
+.data-note {
+  margin: 14px 0 0;
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.guidance,
+.components {
+  margin-top: 68px;
+}
+
+.klipsch-series-page .guidance {
+  margin-top: 72px;
+}
+
+.decision-list {
+  margin-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.decision {
+  display: grid;
+  grid-template-columns: minmax(160px, 0.4fr) minmax(0, 1.6fr);
+  gap: 34px;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.klipsch-series-page .decision {
+  grid-template-columns: minmax(170px, 0.42fr) minmax(0, 1.58fr);
+}
+
+.decision h3 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.decision p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.note {
+  margin-top: 28px;
+  padding: 16px 18px;
+  border-left: 3px solid var(--accent);
+  background: var(--soft-accent);
+  color: var(--note-text);
+  font-size: 0.84rem;
+}
+
+.resources {
+  margin-top: 68px;
+  padding: 32px;
+  border-radius: 18px;
+  background: var(--ink);
+  color: #fffdf8;
+}
+
+.resources h2 {
+  font-size: 1.55rem;
+}
+
+.resources p {
+  margin: 10px 0 20px;
+  color: #c9cfda;
+  font-size: 0.88rem;
+}
+
+.resource-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+}
+
+.resource-links a {
+  color: #fffdf8;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-underline-offset: 4px;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 34px;
+    padding-top: 48px;
+  }
+}
+
+@media (max-width: 660px) {
+  .shell {
+    width: min(100% - 28px, 1120px);
+  }
+
+  .section-heading {
+    display: block;
+  }
+
+  .klipsch-series-page .section-heading p {
+    margin-top: 8px;
+    text-align: left;
+  }
+
+  .decision {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .resources {
+    padding: 26px 22px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
