@@ -21,6 +21,13 @@
   --scope-text: #344d64;
 }
 
+.denon-brand {
+  --page-glow: rgb(83 91 91 / 12%);
+  --soft-accent: #e7e9e5;
+  --scope-border: rgb(83 91 91 / 28%);
+  --scope-text: #424d48;
+}
+
 html {
   scroll-behavior: smooth;
 }
