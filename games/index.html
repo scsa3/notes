@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="遊戲庫、願望清單與個人遊戲推薦。依遊玩時數尋找偏好，按自己的節奏選下一段冒險。">
+  <title>遊戲手記｜Notes</title>
+  <link rel="stylesheet" href="assets/css/games.css">
+  <script src="assets/js/data.js" defer></script>
+  <script src="assets/js/games.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#collection">跳到遊戲清單</a>
+  <nav class="topbar shell" aria-label="網站導航">
+    <a class="wordmark" href="../">Notes<span class="wordmark-dot">.</span></a>
+    <div><a href="../audio/">音響</a><span class="nav-divider" aria-hidden="true">/</span><span aria-current="page">遊戲</span></div>
+  </nav>
+
+  <header class="hero shell">
+    <div class="hero-copy">
+      <p class="eyebrow">PERSONAL COLLECTION · CHAPTER 02</p>
+      <h1>遊戲手記<span class="title-period">。</span></h1>
+      <p class="hero-tagline">下一段冒險，照自己的節奏。</p>
+      <p class="hero-description">整理玩過的世界、放在心上的作品，<br>以及這次值得帶回遊戲庫的特價遊戲。</p>
+      <p class="update-line"><span class="status-dot" aria-hidden="true"></span>資料快照 <time id="updated-at">—</time><span>・台灣商店</span></p>
+    </div>
+    <div class="collection-summary" aria-label="遊戲收藏摘要">
+      <div class="summary-caption">THE COLLECTION <span>收藏一覽 ↘</span></div>
+      <div class="stats-grid">
+        <div><strong id="owned-count">—</strong><span>自己擁有</span></div>
+        <div><strong id="shared-count">—</strong><span>家庭可玩</span></div>
+        <div><strong id="wishlist-count">—</strong><span>願望清單</span></div>
+        <div><strong id="recommended-count">—</strong><span>本次推薦</span></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell" id="collection">
+    <aside class="reading-note">
+      <span class="note-mark" aria-hidden="true">✳</span>
+      <p><strong>玩得久，是喜歡的線索。</strong>時數少可能只是暫時停下來，推薦只採用高時數的正向訊號。</p>
+    </aside>
+
+    <div class="collection-nav">
+      <div class="tabs" role="tablist" aria-label="選擇遊戲清單">
+        <button type="button" id="tab-recommendations" role="tab" aria-selected="true" aria-controls="collection-panel" data-tab="recommendations">為你推薦 <span id="tab-recommendations-count">8</span></button>
+        <button type="button" id="tab-library" role="tab" aria-selected="false" aria-controls="collection-panel" tabindex="-1" data-tab="library">遊戲庫 <span id="tab-library-count">—</span></button>
+        <button type="button" id="tab-wishlist" role="tab" aria-selected="false" aria-controls="collection-panel" tabindex="-1" data-tab="wishlist">願望清單 <span id="tab-wishlist-count">—</span></button>
+      </div>
+    </div>
+
+    <section id="collection-panel" role="tabpanel" aria-labelledby="tab-recommendations">
+      <div class="panel-heading">
+        <div><p class="eyebrow" id="section-eyebrow">A GOOD NEXT GAME</p><h2 id="section-title">這次，從這幾款開始。</h2></div>
+        <p id="section-description">依遊玩偏好挑選，價格為查詢當下的快照。</p>
+      </div>
+
+      <div class="controls">
+        <label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.5"/><path d="m16 16 4.5 4.5"/></svg><span class="sr-only">搜尋遊戲名稱</span><input id="search" type="search" placeholder="搜尋遊戲名稱…" autocomplete="off"></label>
+        <label class="select-control"><span class="sr-only" id="filter-label">分類</span><select id="filter" aria-labelledby="filter-label"></select></label>
+        <label class="select-control"><span class="sr-only">排序</span><select id="sort" aria-label="排序"></select></label>
+      </div>
+      <div class="subcontrols"><div class="quick-filters" id="quick-filters" aria-label="快速篩選"></div><p id="result-count" role="status" aria-live="polite"></p></div>
+      <div id="snapshot-notice" class="snapshot-notice" hidden></div>
+
+      <div id="results"></div>
+      <div class="empty-state" id="empty-state" hidden><span aria-hidden="true">⌕</span><h3>還沒找到這款遊戲。</h3><p>換個關鍵字，或清除篩選再看看。</p><button id="reset" type="button">清除搜尋與篩選</button></div>
+      <nav class="pagination" id="pagination" aria-label="清單分頁" hidden><button id="previous-page" type="button">← 上一頁</button><span id="page-label"></span><button id="next-page" type="button">下一頁 →</button></nav>
+      <noscript><p class="snapshot-notice">請啟用 JavaScript 以瀏覽與搜尋遊戲清單。</p></noscript>
+    </section>
+
+    <section class="about-data" aria-labelledby="about-title">
+      <h2 id="about-title">關於這份手記</h2>
+      <div><p>遊戲庫包含本人擁有與家庭可玩的遊戲。時數是本人紀錄；「尚無紀錄」表示資料缺失，不能判斷是否玩過。</p><p>特價與售價是快照，不會即時更新。購買前以 Steam 商店頁為準。推薦是依個人遊玩偏好推論，也考慮願望清單與入手價格。</p><p>評價顯示所有語言的整體正面比例、Steam 評價描述與評論數；皆為查詢時的快照，缺少資料不視為負評。</p><p class="small">遊戲庫更新：<time id="library-updated">—</time>　願望清單更新：<time id="wishlist-updated">—</time>　評價更新：<time id="reviews-updated">—</time></p></div>
+    </section>
+  </main>
+
+  <footer class="shell"><a class="wordmark" href="../">Notes<span class="wordmark-dot">.</span></a><p>好的遊戲，留給有空的自己。</p><a href="https://store.steampowered.com/" target="_blank" rel="noopener noreferrer">Steam 商店 ↗</a></footer>
+</body>
+</html>

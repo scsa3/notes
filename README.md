@@ -4,3 +4,5 @@
 
 - [公開網站](https://scsa3.github.io/notes/)
 - [音響品牌指南](https://scsa3.github.io/notes/audio/)
+
+- [遊戲手記](https://scsa3.github.io/notes/games/)
