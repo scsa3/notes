@@ -1,0 +1,2070 @@
+{
+  "collected_at": "2026-10-29T17:28:08.159613+08:00",
+  "parameters": {
+    "checkin": "2027-01-12",
+    "checkout": "2027-01-20",
+    "adults": 2,
+    "min_area": "15",
+    "currency": "SGD",
+    "max_hotels": null,
+    "hotel_url": [],
+    "nights": 8,
+    "rooms": 1
+  },
+  "hotels": [
+    {
+      "property_id": "5655262",
+      "name": "MET A Space Pod @ Arab Street",
+      "url": "https://www.agoda.com/met-a-space-pod-arab-street/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "failed",
+      "error": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Total price for full stay\", exact=True)\n"
+    },
+    {
+      "property_id": "444270",
+      "name": "Spacepod@lavender",
+      "url": "https://www.agoda.com/spacepod-lavender_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "1193642",
+      "name": "7 Wonders Hostel",
+      "url": "https://www.agoda.com/7-wonders-hostel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "85989250",
+      "name": "Wink @ Jalan Besar",
+      "url": "https://www.agoda.com/wink-jalan-besar/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 17
+    },
+    {
+      "property_id": "2640170",
+      "name": "Cube Boutique Capsule Hotel @ Kampong Glam",
+      "url": "https://www.agoda.com/cube-boutique-capsule-hotel-kampong-glam/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "5816793",
+      "name": "Campbell Inn",
+      "url": "https://www.agoda.com/campbell-inn_3/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "56233487",
+      "name": "POTATO Boutique Capsule @ Little India",
+      "url": "https://www.agoda.com/potato-boutique-capsule-little-india/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "159262",
+      "name": "Arianna Hotel",
+      "url": "https://www.agoda.com/arianna-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "6997619",
+      "name": "7 Wonders Hostel @ Upper Dickson",
+      "url": "https://www.agoda.com/7-wonders-hostel-upper-dickson/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "86627949",
+      "name": "Straits Heritage Hostel",
+      "url": "https://www.agoda.com/straits-heritage-hostel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "1105203",
+      "name": "BEAT. Capsule Hostel @ Boat Quay",
+      "url": "https://www.agoda.com/beat-capsule-hostel-boat-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "479243",
+      "name": "The Pod @ Beach Road Boutique Capsule Hotel",
+      "url": "https://www.agoda.com/the-pod-beach-road-boutique-capsule-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "47219106",
+      "name": "Cube Social Boutique Capsule Hotel @ Boat Quay",
+      "url": "https://www.agoda.com/cube-social-boat-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 28
+    },
+    {
+      "property_id": "3580112",
+      "name": "Galaxy Pods @ Chinatown",
+      "url": "https://www.agoda.com/galaxy-pods-chinatown_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "1192171",
+      "name": "Meadows Hostel",
+      "url": "https://www.agoda.com/meadows-hostel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 7
+    },
+    {
+      "property_id": "1266232",
+      "name": "Cube Boutique Capsule Hotel @ Chinatown",
+      "url": "https://www.agoda.com/cube-boutique-capsule-hotel-chinatown/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "502713",
+      "name": "Tai Hoe Hotel",
+      "url": "https://www.agoda.com/tai-hoe-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 17
+    },
+    {
+      "property_id": "32016967",
+      "name": "GALAXY PODS CAPSULE HOTEL BOAT QUAY",
+      "url": "https://www.agoda.com/galaxy-pods-capsule-hotel-boat-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 3
+    },
+    {
+      "property_id": "240207",
+      "name": "Amrise Hotel",
+      "url": "https://www.agoda.com/amrise-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "52492238",
+      "name": "The Room @ Bugis",
+      "url": "https://www.agoda.com/zen-rooms-bugis_4/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 17
+    },
+    {
+      "property_id": "69289045",
+      "name": "Blanc Inn",
+      "url": "https://www.agoda.com/blanc-inn_8/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "41569179",
+      "name": "RadZone Hostel",
+      "url": "https://www.agoda.com/radzone-hostel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 17
+    },
+    {
+      "property_id": "88047131",
+      "name": "Peace Hotel",
+      "url": "https://www.agoda.com/peace-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "71555",
+      "name": "Fragrance Hotel - Rose",
+      "url": "https://www.agoda.com/fragrance-hotel-rose/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "2628378",
+      "name": "New Orchid Hotel",
+      "url": "https://www.agoda.com/new-orchid-hotel_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "59327723",
+      "name": "Amrise Hotel Geylang",
+      "url": "https://www.agoda.com/a-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 27
+    },
+    {
+      "property_id": "523011",
+      "name": "Sandpiper Hotel",
+      "url": "https://www.agoda.com/sandpiper-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "22629223",
+      "name": "K Hotel 1515",
+      "url": "https://www.agoda.com/k-hotel-1515/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 11
+    },
+    {
+      "property_id": "45138874",
+      "name": "Dash Living Rochor",
+      "url": "https://www.agoda.com/aqueen-heritage-little-india_3/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "104067",
+      "name": "Fragrance Hotel - Oasis",
+      "url": "https://www.agoda.com/fragrance-hotel-oasis/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "80008139",
+      "name": "BEAT. 1932 Hostel @ Chinatown",
+      "url": "https://www.agoda.com/beat-1932-hostel-chinatown/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 14
+    },
+    {
+      "property_id": "13882263",
+      "name": "ST Signature Jalan Besar, SHORT OVERNIGHT, 8 hours: 11:59PM-8AM",
+      "url": "https://www.agoda.com/st-signature-lite-jalan-besar-h13809445/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "1284",
+      "name": "Hotel 81 Geylang",
+      "url": "https://www.agoda.com/hotel-81-geylang/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "291764",
+      "name": "Beary Best! Hostel Chinatown",
+      "url": "https://www.agoda.com/beary-best-hostel-by-a-beary-good-hostel_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "11098315",
+      "name": "ST Signature Jalan Besar",
+      "url": "https://www.agoda.com/st-signature-jalan-besar-h11098315/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "77048787",
+      "name": "Hmlet Chinatown",
+      "url": "https://www.agoda.com/habyt-chinatown/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 22
+    },
+    {
+      "property_id": "294325",
+      "name": "Fragrance Hotel - Classic",
+      "url": "https://www.agoda.com/fragrance-hotel-classic/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 7
+    },
+    {
+      "property_id": "9381213",
+      "name": "Wink @ McCallum Street",
+      "url": "https://www.agoda.com/wink-capsule-hostel-downtown/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "294326",
+      "name": "Fragrance Hotel - Balestier",
+      "url": "https://www.agoda.com/fragrance-hotel-balestier/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 22
+    },
+    {
+      "property_id": "298765",
+      "name": "Hotel 81 Balestier",
+      "url": "https://www.agoda.com/hotel-81-balestier/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 3
+    },
+    {
+      "property_id": "1045",
+      "name": "Hotel 81 Palace",
+      "url": "https://www.agoda.com/hotel-81-palace/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "3198",
+      "name": "Hotel 81 Premier Hollywood",
+      "url": "https://www.agoda.com/hotel-81-premier-hollywood/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "5929049",
+      "name": "Hotel 81 Orchid",
+      "url": "https://www.agoda.com/hotel-81-orchid_14/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "446036",
+      "name": "Four Chain View Hotel",
+      "url": "https://www.agoda.com/four-chain-view-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "46883286",
+      "name": "Kam Leng Hotel",
+      "url": "https://www.agoda.com/kam-leng-hotel_4/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "1157083",
+      "name": "The Noble Hotel",
+      "url": "https://www.agoda.com/the-noble-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 13
+    },
+    {
+      "property_id": "159124",
+      "name": "Value Hotel Nice",
+      "url": "https://www.agoda.com/value-hotel-nice/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "97657407",
+      "name": "ROOM EASY",
+      "url": "https://www.agoda.com/room-easy/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "73493",
+      "name": "Harbour Ville Hotel",
+      "url": "https://www.agoda.com/harbour-ville-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 13
+    },
+    {
+      "property_id": "1059222",
+      "name": "Hotel Yan",
+      "url": "https://www.agoda.com/hotel-yan/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "1278161",
+      "name": "CHECK-INN @LITTLE INDIA",
+      "url": "https://www.agoda.com/park-22-hotel-little-india/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "97554",
+      "name": "Hotel 81 Rochor",
+      "url": "https://www.agoda.com/hotel-81-rochor/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "16066298",
+      "name": "ST Signature Tanjong Pagar, SHORT OVERNIGHT, 12 hours: 8PM - 8AM",
+      "url": "https://www.agoda.com/st-signature-lite-tanjong-pagar-dark/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 1
+    },
+    {
+      "property_id": "286087",
+      "name": "Hotel 81 Heritage",
+      "url": "https://www.agoda.com/hotel-81-heritage/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "109878",
+      "name": "Value Hotel Balestier",
+      "url": "https://www.agoda.com/value-hotel-balestier/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "37127755",
+      "name": "ibis budget Singapore Gold",
+      "url": "https://www.agoda.com/ibis-budget-singapore-gold/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "59597107",
+      "name": "Coller Chinatown",
+      "url": "https://www.agoda.com/coller-boutique-hostel-h59597107/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 11
+    },
+    {
+      "property_id": "344614",
+      "name": "A Hotel Joo Chiat",
+      "url": "https://www.agoda.com/champion-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "6377406",
+      "name": "K Hotel 12",
+      "url": "https://www.agoda.com/k-hotel-12/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "61601567",
+      "name": "A Hotel Joo Chiat ",
+      "url": "https://www.agoda.com/champion-hotel-sg-clean-certified-staycation-approved/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 34
+    },
+    {
+      "property_id": "97555",
+      "name": "Hotel 81 Tristar",
+      "url": "https://www.agoda.com/hotel-81-tristar/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "59798370",
+      "name": "A Hotel Dickson",
+      "url": "https://www.agoda.com/a-hotel-dickson-previously-lion-peak-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 21
+    },
+    {
+      "property_id": "165660",
+      "name": "Hotel 81 Osaka",
+      "url": "https://www.agoda.com/hotel-81-osaka/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 3
+    },
+    {
+      "property_id": "64671506",
+      "name": "STORIES Joo Chiat, a Hotel by Cove",
+      "url": "https://www.agoda.com/aqueen-heritage-hotel-joo-chiat-h9672614/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "159109",
+      "name": "Days Inn Singapore by Wyndham Novena",
+      "url": "https://www.agoda.com/days-inn-by-wyndham-singapore-novena-h159109/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 30
+    },
+    {
+      "property_id": "6625436",
+      "name": "Rucksack Inn Tyrwhitt Road",
+      "url": "https://www.agoda.com/pine-hostel-by-just-inn/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 22
+    },
+    {
+      "property_id": "985471",
+      "name": "Arcadia Hotel",
+      "url": "https://www.agoda.com/arcadia-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 14
+    },
+    {
+      "property_id": "470453",
+      "name": "Jayleen 1918 Hotel",
+      "url": "https://www.agoda.com/jayleen-1918-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 35
+    },
+    {
+      "property_id": "165476",
+      "name": "The Quay Hotel West Coast",
+      "url": "https://www.agoda.com/santa-grand-hotel-west-coast/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 19
+    },
+    {
+      "property_id": "6675601",
+      "name": "Q Loft Hotels@Bedok",
+      "url": "https://www.agoda.com/q-loft-hotels-bedok/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "1620253",
+      "name": "Hotel Mono",
+      "url": "https://www.agoda.com/hotel-mono/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 27
+    },
+    {
+      "property_id": "45214534",
+      "name": "Amrise Hotel Kitchener",
+      "url": "https://www.agoda.com/aqueen-jalan-besar-hotel_7/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "108811",
+      "name": "ibis budget Singapore West Coast",
+      "url": "https://www.agoda.com/fragrance-hotel-waterfront/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "705396",
+      "name": "Venue Hotel The Lily",
+      "url": "https://www.agoda.com/venue-hotel-the-lily/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 14
+    },
+    {
+      "property_id": "1194490",
+      "name": "Hotel Clover 7",
+      "url": "https://www.agoda.com/hotel-clover-7/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "75883602",
+      "name": "Asphodel Inn - Newly Renovated",
+      "url": "https://www.agoda.com/asphodel-inn-singapore_4/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "95070707",
+      "name": "ST Signature Midtown",
+      "url": "https://www.agoda.com/st-signature-midtown/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "71556",
+      "name": "Metro Y Hotel Singapore ",
+      "url": "https://www.agoda.com/metropolitan-ymca-singapore_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "49410220",
+      "name": "The Snooze Hotel @Bugis ",
+      "url": "https://www.agoda.com/marrison-hotel_3/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "5837054",
+      "name": "Hotel Classic by Venue",
+      "url": "https://www.agoda.com/hotel-classic-by-venue/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "97551",
+      "name": "Hotel 81 Bugis",
+      "url": "https://www.agoda.com/hotel-81-bugis/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "85238262",
+      "name": "Aura Hotel Mackenzie",
+      "url": "https://www.agoda.com/dash-living-on-mackenzie-h85238262/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "9383066",
+      "name": "Hmlet Cantonment",
+      "url": "https://www.agoda.com/hmlet-cantonment/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 14
+    },
+    {
+      "property_id": "70328",
+      "name": "ibis budget Singapore Selegie",
+      "url": "https://www.agoda.com/fragrance-hotel-selegie/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "82064054",
+      "name": "Aura Hotel Purvis",
+      "url": "https://www.agoda.com/d-nova-hotel-bugis-newly-renovated/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "544414",
+      "name": "Arton Boutique Hotel",
+      "url": "https://www.agoda.com/arton-boutique-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "14651985",
+      "name": "ST Signature Jalan Besar, DAYUSE, 5 hours: 5PM-10PM ",
+      "url": "https://www.agoda.com/st-signature-dusk-jalan-besar/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "41296904",
+      "name": "Aqueen Prestige Hotel Lavender",
+      "url": "https://www.agoda.com/aqueen-prestige-hotel-lavender/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 32
+    },
+    {
+      "property_id": "1105091",
+      "name": "Hotel Boss",
+      "url": "https://www.agoda.com/hotel-boss/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 124
+    },
+    {
+      "property_id": "3123799",
+      "name": "The Quay Hotel",
+      "url": "https://www.agoda.com/the-quay-hotel_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "49699196",
+      "name": "Alocassia Serviced Apartments",
+      "url": "https://www.agoda.com/alocassia-serviced-apartments/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "1618327",
+      "name": "Heritage Collection on Chinatown - Mobile App Check-In",
+      "url": "https://www.agoda.com/heritage-apartments-chinatown/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "1122442",
+      "name": "ibis Styles Singapore On Macpherson",
+      "url": "https://www.agoda.com/ibis-styles-singapore-on-macpherson/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 99
+    },
+    {
+      "property_id": "1155567",
+      "name": "Jayleen Clarke Quay Hotel",
+      "url": "https://www.agoda.com/jayleen-clarke-quay-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "80524405",
+      "name": "Mber Co-Living Serviced Apartments",
+      "url": "https://www.agoda.com/mber-teck-chye-terrace/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 29
+    },
+    {
+      "property_id": "46777963",
+      "name": "KINN Studios",
+      "url": "https://www.agoda.com/kinn-studios/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "544842",
+      "name": "River City Inn",
+      "url": "https://www.agoda.com/river-city-inn/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "41984142",
+      "name": "ST Signature Bugis Middle",
+      "url": "https://www.agoda.com/amaris-hotel-bugis_3/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "164221",
+      "name": "Rest Bugis Hotel",
+      "url": "https://www.agoda.com/santa-grand-hotel-bugis/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 23
+    },
+    {
+      "property_id": "548576",
+      "name": "Hotel NuVe Heritage",
+      "url": "https://www.agoda.com/hotel-nuve-heritage/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "97550",
+      "name": "Hotel Mi Bencoolen",
+      "url": "https://www.agoda.com/hotel-mi/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 49
+    },
+    {
+      "property_id": "433173",
+      "name": "V Hotel Bencoolen",
+      "url": "https://www.agoda.com/v-hotel-bencoolen/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 43
+    },
+    {
+      "property_id": "335555",
+      "name": "Dorsett Changi City Singapore",
+      "url": "https://www.agoda.com/capri-by-fraser-changi-city/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "65157",
+      "name": "Holiday Inn Express And Suites Singapore Novena By IHG",
+      "url": "https://www.agoda.com/quality-hotel-marlow-h37084872/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 56
+    },
+    {
+      "property_id": "548505",
+      "name": "Philip Hotel",
+      "url": "https://www.agoda.com/marrison-hotel-at-desker/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "34460300",
+      "name": "Seng Wah Hotel",
+      "url": "https://www.agoda.com/seng-wah-hotel-h16794984/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "44384507",
+      "name": "VicHaus Serviced Apartment  ",
+      "url": "https://www.agoda.com/vichaus-serviced-apartment/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "10577",
+      "name": "Village Hotel Albert Court by Far East Hospitality",
+      "url": "https://www.agoda.com/village-hotel-albert-court-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 23
+    },
+    {
+      "property_id": "42250441",
+      "name": "Hotel Mi Rochor",
+      "url": "https://www.agoda.com/hotel-mi-rochor/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 53
+    },
+    {
+      "property_id": "289410",
+      "name": "Park Avenue Rochester Hotel",
+      "url": "https://www.agoda.com/park-avenue-rochester-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 31
+    },
+    {
+      "property_id": "254056",
+      "name": "V Hotel Lavender",
+      "url": "https://www.agoda.com/v-hotel-lavender/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 70
+    },
+    {
+      "property_id": "757594",
+      "name": "Heritage Collection on Seah - Mobile App Check-In",
+      "url": "https://www.agoda.com/heritage-apartments-city-hall/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 3
+    },
+    {
+      "property_id": "287095",
+      "name": "Rucksack Inn Temple Street",
+      "url": "https://www.agoda.com/rucksack-inn/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "10627",
+      "name": "York Hotel",
+      "url": "https://www.agoda.com/york-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 85
+    },
+    {
+      "property_id": "165693",
+      "name": "Studio M Hotel Singapore",
+      "url": "https://www.agoda.com/studio-m-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 66
+    },
+    {
+      "property_id": "62161593",
+      "name": "KINN Habitat",
+      "url": "https://www.agoda.com/kinn-habitat/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "6541182",
+      "name": "KeSa House, The Unlimited Collection managed by The Ascott Limited",
+      "url": "https://www.agoda.com/kesa-house/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 15
+    },
+    {
+      "property_id": "109247",
+      "name": "Ibis Singapore on Bencoolen - Newly Renovated",
+      "url": "https://www.agoda.com/ibis-singapore-on-bencoolen-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 104
+    },
+    {
+      "property_id": "1766045",
+      "name": "five/6 Hotel Splendour",
+      "url": "https://www.agoda.com/five-6-hotel-splendour/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 14
+    },
+    {
+      "property_id": "255009",
+      "name": "ibis Styles Singapore Albert",
+      "url": "https://www.agoda.com/parc-sovereign-hotel-albert-st/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "165202",
+      "name": "Nostalgia Hotel",
+      "url": "https://www.agoda.com/nostalgia-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "51378",
+      "name": "iNN at Temple St by Q Loft Newly Renovated",
+      "url": "https://www.agoda.com/the-inn-at-temple-street-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "10591",
+      "name": "Village Hotel Bugis by Far East Hospitality",
+      "url": "https://www.agoda.com/village-hotel-bugis-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "1192785",
+      "name": "M Social Hotel Singapore",
+      "url": "https://www.agoda.com/m-social-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 90
+    },
+    {
+      "property_id": "46778393",
+      "name": "Hotel Faber Park Singapore - Handwritten Collection",
+      "url": "https://www.agoda.com/hotel-faber-park-singapore-handwritten-collection/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 27
+    },
+    {
+      "property_id": "488688",
+      "name": "Village Hotel Katong by Far East Hospitality",
+      "url": "https://www.agoda.com/village-hotel-katong-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "5227",
+      "name": "Village Hotel Changi by Far East Hospitality",
+      "url": "https://www.agoda.com/village-hotel-changi-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 19
+    },
+    {
+      "property_id": "6532523",
+      "name": "Le Grove Serviced Residences",
+      "url": "https://www.agoda.com/le-grove-serviced-residences/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "45889049",
+      "name": "ISA Hotel and Apartment Hotel ",
+      "url": "https://www.agoda.com/isa-1930s/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "80185677",
+      "name": "Hotel Waterloo Singapore - Handwritten Collection",
+      "url": "https://www.agoda.com/hotel-waterloo-singapore-handwritten-collection/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "2402698",
+      "name": "Mercure Singapore on Stevens",
+      "url": "https://www.agoda.com/mercure-singapore-on-stevens/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 182
+    },
+    {
+      "property_id": "2531587",
+      "name": "Oakwood Bencoolen Singapore",
+      "url": "https://www.agoda.com/30-bencoolen/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "sold_out",
+      "offer_count": 0
+    },
+    {
+      "property_id": "300604",
+      "name": "Lanson Place Winsland",
+      "url": "https://www.agoda.com/winsland-serviced-suites-by-lanson-place/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "98946",
+      "name": "Siloso Beach Resort Sentosa",
+      "url": "https://www.agoda.com/siloso-beach-resort-sentosa/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 21
+    },
+    {
+      "property_id": "10586",
+      "name": "Vibe Hotel Singapore Orchard",
+      "url": "https://www.agoda.com/vibe-hotel-singapore-orchard_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 15
+    },
+    {
+      "property_id": "2156037",
+      "name": "Heritage Collection on Clarke Quay - Mobile App Check-In",
+      "url": "https://www.agoda.com/heritage-apartments-clarke-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 3
+    },
+    {
+      "property_id": "408551",
+      "name": "Dorsett Singapore",
+      "url": "https://www.agoda.com/dorsett-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 50
+    },
+    {
+      "property_id": "1177515",
+      "name": "Holiday Inn Express Singapore Katong By IHG",
+      "url": "https://www.agoda.com/holiday-inn-express-singapore-katong/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 70
+    },
+    {
+      "property_id": "22885101",
+      "name": "Wanderlust, The Unlimited Collection managed by The Ascott Limited",
+      "url": "https://www.agoda.com/wanderlust_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "76906737",
+      "name": "Hollandse Club Retreat",
+      "url": "https://www.agoda.com/hollandse-club-h24545920/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "502090",
+      "name": "Holiday Inn Express Singapore Clarke Quay By IHG",
+      "url": "https://www.agoda.com/holiday-inn-express-singapore-clarke-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 32
+    },
+    {
+      "property_id": "6587859",
+      "name": "YOTELAIR Singapore Changi Airport at Jewel",
+      "url": "https://www.agoda.com/yotelair-singapore-changi-airport_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "10672643",
+      "name": "Dusit Thani Laguna Singapore",
+      "url": "https://www.agoda.com/dusit-thani-laguna-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 110
+    },
+    {
+      "property_id": "55140362",
+      "name": "Quincy House Singapore by Far East Hospitality",
+      "url": "https://www.agoda.com/quincy-house-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "73584611",
+      "name": "Mama Shelter Singapore Orchard",
+      "url": "https://www.agoda.com/mama-shelter-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "10600",
+      "name": "Rendezvous Hotel Singapore by Far East Hospitality",
+      "url": "https://www.agoda.com/rendezvous-hotel-sg-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 20
+    },
+    {
+      "property_id": "51379",
+      "name": "RELC International Hotel",
+      "url": "https://www.agoda.com/relc-international-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "10583",
+      "name": "Holiday Inn Singapore Atrium By IHG",
+      "url": "https://www.agoda.com/holiday-inn-singapore-atrium/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 218
+    },
+    {
+      "property_id": "625134",
+      "name": "Lloyds Inn",
+      "url": "https://www.agoda.com/lloyds-inn/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 7
+    },
+    {
+      "property_id": "256506",
+      "name": "Oasia Hotel Novena Singapore by Far East Hospitality",
+      "url": "https://www.agoda.com/oasia-hotel-novena-singapore-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "490045",
+      "name": "Park Avenue Clemenceau",
+      "url": "https://www.agoda.com/park-avenue-clemenceau/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "9965791",
+      "name": "Ji Hotel Orchard Singapore",
+      "url": "https://www.agoda.com/ji-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 21
+    },
+    {
+      "property_id": "1622759",
+      "name": "Holiday Inn Singapore Little India By IHG",
+      "url": "https://www.agoda.com/holiday-inn-singapore-little-india/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 132
+    },
+    {
+      "property_id": "80921486",
+      "name": "Swiss Club Guesthouse ",
+      "url": "https://www.agoda.com/swiss-club-guesthouse/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 1
+    },
+    {
+      "property_id": "773983",
+      "name": "Four Points by Sheraton Singapore, Jurong",
+      "url": "https://www.agoda.com/genting-hotel-jurong-h30138898/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 30
+    },
+    {
+      "property_id": "1635",
+      "name": "M Hotel Singapore City Centre",
+      "url": "https://www.agoda.com/m-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 274
+    },
+    {
+      "property_id": "109168",
+      "name": "Quincy Hotel Singapore by Far East Hospitality ",
+      "url": "https://www.agoda.com/quincy-hotel-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 44
+    },
+    {
+      "property_id": "44923",
+      "name": "Copthorne King's Hotel Singapore",
+      "url": "https://www.agoda.com/copthorne-king-s-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 114
+    },
+    {
+      "property_id": "10587",
+      "name": "Wyndham Singapore Hotel",
+      "url": "https://www.agoda.com/peninsula-excelsior-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 135
+    },
+    {
+      "property_id": "10611",
+      "name": "Orchard Rendezvous Hotel by Far East Hospitality",
+      "url": "https://www.agoda.com/orchard-rendezvous-hotel-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 35
+    },
+    {
+      "property_id": "409796",
+      "name": "Aloft by Marriott Singapore Novena",
+      "url": "https://www.agoda.com/ramada-singapore-at-zhongshan-park_12/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 45
+    },
+    {
+      "property_id": "32008190",
+      "name": "Citadines Connect City Centre Singapore ",
+      "url": "https://www.agoda.com/citadines-connect-city-centre-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 45
+    },
+    {
+      "property_id": "10610",
+      "name": "Orchard Hotel Singapore",
+      "url": "https://www.agoda.com/orchard-hotel-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 102
+    },
+    {
+      "property_id": "6840955",
+      "name": "Village Hotel Sentosa by Far East Hospitality",
+      "url": "https://www.agoda.com/village-hotel-at-sentosa-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "148973",
+      "name": "Novotel Singapore Robertson Quay",
+      "url": "https://www.agoda.com/novotel-singapore-robertson-quay-h148973/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 36
+    },
+    {
+      "property_id": "164241",
+      "name": "Orchid Country Club",
+      "url": "https://www.agoda.com/orchid-country-club_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "37957971",
+      "name": "Mondrian Singapore Duxton",
+      "url": "https://www.agoda.com/mondrian-singapore-duxton_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 119
+    },
+    {
+      "property_id": "31566977",
+      "name": "Paradox Singapore",
+      "url": "https://www.agoda.com/paradox-singapore-merchant-court-at-clarke-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "71554",
+      "name": "The Serangoon House Little India, Singapore, a Tribute Portfolio Hotel",
+      "url": "https://www.agoda.com/claremont-hotel-h45314037/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 15
+    },
+    {
+      "property_id": "193528",
+      "name": "Pullman Singapore Orchard",
+      "url": "https://www.agoda.com/pullman-singapore-orchard_7/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 127
+    },
+    {
+      "property_id": "1193235",
+      "name": "Citadines Fusionopolis Singapore",
+      "url": "https://www.agoda.com/citadines-fusionopolis-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "85740112",
+      "name": "Varel Singapore, a Tribute Portfolio Hotel",
+      "url": "https://www.agoda.com/varel-singapore-a-tribute-portfolio-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 25
+    },
+    {
+      "property_id": "9765802",
+      "name": "Citadines Balestier Singapore",
+      "url": "https://www.agoda.com/citadines-balestier-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "2115729",
+      "name": "Dao by Dorsett AMTD Singapore",
+      "url": "https://www.agoda.com/oakwood-premier-oue-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 66
+    },
+    {
+      "property_id": "42005751",
+      "name": "Fraser Residence River Promenade, Singapore",
+      "url": "https://www.agoda.com/fraser-residence-river-promenade-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 15
+    },
+    {
+      "property_id": "10596",
+      "name": "voco Orchard Singapore by IHG",
+      "url": "https://www.agoda.com/voco-orchard-singapore-by-ihg/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 103
+    },
+    {
+      "property_id": "62106495",
+      "name": "21 Carpenter",
+      "url": "https://www.agoda.com/21-carpenter/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 80
+    },
+    {
+      "property_id": "186995",
+      "name": "Resorts World Sentosa - Hotel Ora",
+      "url": "https://www.agoda.com/resorts-world-sentosa-festive-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 32
+    },
+    {
+      "property_id": "34735841",
+      "name": "QT Singapore",
+      "url": "https://www.agoda.com/so-sofitel-singapore_22/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 32
+    },
+    {
+      "property_id": "10617",
+      "name": "Royal Plaza on Scotts Hotel",
+      "url": "https://www.agoda.com/royal-plaza-on-scotts-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 65
+    },
+    {
+      "property_id": "93306516",
+      "name": "APT. Stamford Place",
+      "url": "https://www.agoda.com/apt-stamford-place/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 5
+    },
+    {
+      "property_id": "108593",
+      "name": "Crowne Plaza Changi Airport By IHG",
+      "url": "https://www.agoda.com/crowne-plaza-changi-airport/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 59
+    },
+    {
+      "property_id": "522329",
+      "name": "One Farrer Hotel",
+      "url": "https://www.agoda.com/one-farrer-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 52
+    },
+    {
+      "property_id": "10603",
+      "name": "PARKROYAL COLLECTION Marina Bay, Singapore",
+      "url": "https://www.agoda.com/marina-mandarin-singapore-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 62
+    },
+    {
+      "property_id": "6365707",
+      "name": "Maxwell Reserve Singapore, Autograph Collection",
+      "url": "https://www.agoda.com/the-maxwell-reserve-singapore-autograph-collection/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 32
+    },
+    {
+      "property_id": "63224598",
+      "name": "The Warehouse Hotel, Singapore, a Member of Design Hotels",
+      "url": "https://www.agoda.com/the-warehouse-hotel_4/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 36
+    },
+    {
+      "property_id": "87184199",
+      "name": "Weave Suites - Novena",
+      "url": "https://www.agoda.com/weave-suites-novena/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "8024",
+      "name": "Amara Singapore",
+      "url": "https://www.agoda.com/amara-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 52
+    },
+    {
+      "property_id": "83534989",
+      "name": "METT Singapore",
+      "url": "https://www.agoda.com/hotel-fort-canning_5/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 33
+    },
+    {
+      "property_id": "1515704",
+      "name": "Ascott Orchard Singapore",
+      "url": "https://www.agoda.com/ascott-orchard-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "108938",
+      "name": "Ascott Raffles Place Singapore",
+      "url": "https://www.agoda.com/ascott-raffles-place-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "2987257",
+      "name": "Courtyard by Marriott Singapore Novena",
+      "url": "https://www.agoda.com/courtyard-by-marriott-singapore-novena_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "12003931",
+      "name": "The Clan Hotel Singapore by Far East Hospitality",
+      "url": "https://www.agoda.com/the-clan-hotel-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 18
+    },
+    {
+      "property_id": "2065138",
+      "name": "InterContinental Singapore Robertson Quay By IHG",
+      "url": "https://www.agoda.com/intercontinental-singapore-robertson-quay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 168
+    },
+    {
+      "property_id": "10602",
+      "name": "Hilton Singapore Orchard",
+      "url": "https://www.agoda.com/hilton-singapore-orchard-sg-clean/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 350
+    },
+    {
+      "property_id": "297130",
+      "name": "Resorts World Sentosa - Equarius Hotel",
+      "url": "https://www.agoda.com/resorts-world-sentosa-equarius-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 13
+    },
+    {
+      "property_id": "159170",
+      "name": "Fraser Suites Singapore",
+      "url": "https://www.agoda.com/fraser-suites-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 2
+    },
+    {
+      "property_id": "461545",
+      "name": "ONE15 Marina Hotel Sentosa Cove",
+      "url": "https://www.agoda.com/one15-marina-sentosa-cove-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "sold_out",
+      "offer_count": 0
+    },
+    {
+      "property_id": "35668940",
+      "name": "Momentus Hotel Alexandra",
+      "url": "https://www.agoda.com/momentus-hotel-alexandra/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 7
+    },
+    {
+      "property_id": "4131659",
+      "name": "Ann Siang House, The Unlimited Collection managed by The Ascott Limited",
+      "url": "https://www.agoda.com/ann-siang-house/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "10621",
+      "name": "Swissotel The Stamford Singapore",
+      "url": "https://www.agoda.com/swissotel-the-stamford-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 175
+    },
+    {
+      "property_id": "159265",
+      "name": "Conrad Singapore Orchard",
+      "url": "https://www.agoda.com/regent-singapore-a-four-seasons-hotel_6/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 295
+    },
+    {
+      "property_id": "100198",
+      "name": "Somerset Bencoolen Singapore",
+      "url": "https://www.agoda.com/somerset-bencoolen-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 57
+    },
+    {
+      "property_id": "10620",
+      "name": "Sheraton Towers Singapore",
+      "url": "https://www.agoda.com/sheraton-towers-singapore_10/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 49
+    },
+    {
+      "property_id": "1623679",
+      "name": "Sofitel Singapore City Centre",
+      "url": "https://www.agoda.com/sofitel-singapore-city-centre/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 217
+    },
+    {
+      "property_id": "1147114",
+      "name": "Treetops Executive Residences",
+      "url": "https://www.agoda.com/treetops-executive-residences/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 8
+    },
+    {
+      "property_id": "61687130",
+      "name": "Mandai Rainforest Resort by Banyan Tree",
+      "url": "https://www.agoda.com/mandai-rainforest-resort-by-banyan-tree/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 36
+    },
+    {
+      "property_id": "4662955",
+      "name": "Duxton Reserve Singapore, Autograph Collection",
+      "url": "https://www.agoda.com/six-senses-duxton-formerly-duxton-sg/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 30
+    },
+    {
+      "property_id": "10597",
+      "name": "Holiday Inn Singapore Orchard City Centre By IHG",
+      "url": "https://www.agoda.com/holiday-inn-singapore-orchard-city-centre/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 37
+    },
+    {
+      "property_id": "10584",
+      "name": "Conrad Singapore Marina Bay",
+      "url": "https://www.agoda.com/conrad-singapore-marina-bay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 294
+    },
+    {
+      "property_id": "30144561",
+      "name": "Oakwood Premier Raffles Place Singapore",
+      "url": "https://www.agoda.com/citadines-raffles-place-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 31
+    },
+    {
+      "property_id": "446168",
+      "name": "Pan Pacific Serviced Suites Beach Road, Singapore",
+      "url": "https://www.agoda.com/pan-pacific-serviced-suites-beach-road-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 7
+    },
+    {
+      "property_id": "5835136",
+      "name": "The Capitol Kempinski Hotel Singapore",
+      "url": "https://www.agoda.com/the-capitol-kempinski-hotel-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 71
+    },
+    {
+      "property_id": "7400456",
+      "name": "The Barracks Hotel Sentosa by Far East Hospitality",
+      "url": "https://www.agoda.com/the-barracks-hotel-sentosa-by-far-east-hospitality/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 11
+    },
+    {
+      "property_id": "10615",
+      "name": "Fairmont Singapore",
+      "url": "https://www.agoda.com/fairmont-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 49
+    },
+    {
+      "property_id": "985483",
+      "name": "Village Residence Hougang",
+      "url": "https://www.agoda.com/village-residence-hougang/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 4
+    },
+    {
+      "property_id": "48382893",
+      "name": "COMO Metropolitan Singapore",
+      "url": "https://www.agoda.com/como-metropolitan-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 25
+    },
+    {
+      "property_id": "10604",
+      "name": "Singapore Marriott Tang Plaza Hotel",
+      "url": "https://www.agoda.com/singapore-marriott-tang-plaza-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 25
+    },
+    {
+      "property_id": "873563",
+      "name": "Great World Residences",
+      "url": "https://www.agoda.com/great-world-serviced-apartments/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 10
+    },
+    {
+      "property_id": "10625",
+      "name": "Pan Pacific Singapore",
+      "url": "https://www.agoda.com/pan-pacific-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 37
+    },
+    {
+      "property_id": "10589",
+      "name": "The Fullerton Hotel",
+      "url": "https://www.agoda.com/the-fullerton-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 56
+    },
+    {
+      "property_id": "407120",
+      "name": "PARKROYAL COLLECTION Pickering, Singapore",
+      "url": "https://www.agoda.com/parkroyal-on-pickering/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 26
+    },
+    {
+      "property_id": "100138",
+      "name": "Shangri-La Apartments",
+      "url": "https://www.agoda.com/shangri-la-apartments/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "10598",
+      "name": "Frasers House, a Luxury Collection Hotel, Singapore",
+      "url": "https://www.agoda.com/intercontinental-singapore_9/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 57
+    },
+    {
+      "property_id": "489841",
+      "name": "The Westin Singapore",
+      "url": "https://www.agoda.com/the-westin-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 40
+    },
+    {
+      "property_id": "10588",
+      "name": "Four Seasons Hotel Singapore",
+      "url": "https://www.agoda.com/four-seasons-hotel-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 40
+    },
+    {
+      "property_id": "291721",
+      "name": "PARKROYAL Serviced Suites Singapore",
+      "url": "https://www.agoda.com/parkroyal-serviced-suites-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 9
+    },
+    {
+      "property_id": "46254934",
+      "name": "The Singapore EDITION",
+      "url": "https://www.agoda.com/the-singapore-edition/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 64
+    },
+    {
+      "property_id": "399865",
+      "name": "W Singapore - Sentosa Cove",
+      "url": "https://www.agoda.com/w-singapore-sentosa-cove/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 42
+    },
+    {
+      "property_id": "276827",
+      "name": "SOFITEL SINGAPORE SENTOSA",
+      "url": "https://www.agoda.com/sofitel-singapore-sentosa-resort-and-spa/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 147
+    },
+    {
+      "property_id": "91713",
+      "name": "The St. Regis Singapore",
+      "url": "https://www.agoda.com/the-st-regis-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 42
+    },
+    {
+      "property_id": "1620069",
+      "name": "JW Marriott Hotel Singapore South Beach",
+      "url": "https://www.agoda.com/jw-marriott-hotel-singapore-south-beach/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 55
+    },
+    {
+      "property_id": "34550718",
+      "name": "Garden Pod @ Gardens by the Bay",
+      "url": "https://www.agoda.com/garden-pod-gardens-by-the-bay/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 1
+    },
+    {
+      "property_id": "3849636",
+      "name": "Mandarin Oriental, Singapore",
+      "url": "https://www.agoda.com/mandarin-oriental-singapore_9/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 116
+    },
+    {
+      "property_id": "10626",
+      "name": "The Ritz-Carlton, Millenia Singapore",
+      "url": "https://www.agoda.com/the-ritz-carlton-millenia-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 105
+    },
+    {
+      "property_id": "488197",
+      "name": "Pan Pacific Serviced Suites Orchard",
+      "url": "https://www.agoda.com/pan-pacific-serviced-suites-orchard-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 12
+    },
+    {
+      "property_id": "66802032",
+      "name": "Glamping in the Wild, Mandai Wildlife Reserve - Formerly Colugo Camp",
+      "url": "https://www.agoda.com/colugo-camp-mandai-wildlife-east/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 6
+    },
+    {
+      "property_id": "187129",
+      "name": "The Fullerton Bay Hotel",
+      "url": "https://www.agoda.com/the-fullerton-bay-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 23
+    },
+    {
+      "property_id": "66355609",
+      "name": "Weave Suites - Hillside",
+      "url": "https://www.agoda.com/weave-suites-hillside/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 7
+    },
+    {
+      "property_id": "72083005",
+      "name": "Artyzen Singapore",
+      "url": "https://www.agoda.com/artyzen-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 24
+    },
+    {
+      "property_id": "59913000",
+      "name": "Pan Pacific Orchard",
+      "url": "https://www.agoda.com/pan-pacific-orchard_3/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 67
+    },
+    {
+      "property_id": "6171987",
+      "name": "Fraser Residence Orchard, Singapore ",
+      "url": "https://www.agoda.com/fraser-residence-orchard-singapore_2/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 14
+    },
+    {
+      "property_id": "10594",
+      "name": "Grand Hyatt Singapore",
+      "url": "https://www.agoda.com/grand-hyatt-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 156
+    },
+    {
+      "property_id": "97543719",
+      "name": "NoMad Hilton Singapore",
+      "url": "https://www.agoda.com/nomad-hilton-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 78
+    },
+    {
+      "property_id": "297131",
+      "name": "Resorts World Sentosa - Equarius Villas",
+      "url": "https://www.agoda.com/resorts-world-sentosa-beach-villas/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 16
+    },
+    {
+      "property_id": "185945",
+      "name": "Marina Bay Sands ",
+      "url": "https://www.agoda.com/marina-bay-sands/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 157
+    },
+    {
+      "property_id": "66741398",
+      "name": "Raffles Sentosa Singapore",
+      "url": "https://www.agoda.com/raffles-sentosa-singapore/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 45
+    },
+    {
+      "property_id": "128838",
+      "name": "Capella Singapore Hotel",
+      "url": "https://www.agoda.com/capella-singapore-hotel/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 23
+    },
+    {
+      "property_id": "10614",
+      "name": "Raffles Hotel Singapore",
+      "url": "https://www.agoda.com/raffles-hotel-singapore_9/hotel/singapore-sg.html?checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+      "status": "success",
+      "availability": "available",
+      "offer_count": 82
+    }
+  ],
+  "failures": [
+    {
+      "hotel": "MET A Space Pod @ Arab Street",
+      "error": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Total price for full stay\", exact=True)\n"
+    }
+  ],
+  "run_errors": [],
+  "discovered_count": 249,
+  "phase": "completed",
+  "search_batches": [
+    {
+      "page": 1,
+      "available": 45
+    },
+    {
+      "page": 3,
+      "available": 42
+    },
+    {
+      "page": 5,
+      "available": 40
+    },
+    {
+      "page": 7,
+      "available": 39
+    },
+    {
+      "page": 9,
+      "available": 41
+    },
+    {
+      "page": 11,
+      "available": 44
+    },
+    {
+      "page": 13,
+      "available": 42
+    },
+    {
+      "page": 15,
+      "available": 22
+    }
+  ],
+  "source": "Agoda",
+  "search_url": "https://www.agoda.com/search?city=4064&sort=priceLowToHigh&checkin=2027-01-12&checkout=2027-01-20&los=8&rooms=1&adults=2&children=0&currency=SGD&currencyCode=SGD&cid=-1",
+  "reported_total": 655,
+  "updated_at": "2026-10-29T17:49:27.156166+08:00",
+  "exchange_rates": {
+    "source": "臺灣銀行即期賣出匯率",
+    "url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+    "as_of": "2026/10/25 09:25",
+    "twd_per_unit": {
+      "SGD": "25.54",
+      "USD": "32.58"
+    }
+  },
+  "counts": {
+    "offers": 8907,
+    "matched": 2869,
+    "review": 3538,
+    "excluded": 2500
+  },
+  "discovery_stop_reason": "exhausted"
+}
