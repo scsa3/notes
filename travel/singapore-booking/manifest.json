@@ -1,0 +1,2846 @@
+{
+  "collected_at": "2026-10-29T16:48:26.169439+08:00",
+  "parameters": {
+    "checkin": "2027-01-12",
+    "checkout": "2027-01-20",
+    "adults": 2,
+    "min_area": "15",
+    "currency": "SGD",
+    "max_hotels": null,
+    "nights": 8,
+    "rooms": 1
+  },
+  "hotels": [
+    {
+      "name": "Sandpiper Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/sandpiper.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 17,
+      "collected_at": "2026-10-29T16:48:37.065764+08:00"
+    },
+    {
+      "name": "Hotel 81 Geylang",
+      "url": "https://www.booking.com/hotel/sg/81-geylang.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T16:48:41.256791+08:00"
+    },
+    {
+      "name": "BLANC INN Singapore",
+      "url": "https://www.booking.com/hotel/sg/blanc-inn-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T16:48:45.646280+08:00"
+    },
+    {
+      "name": "ST Signature Jalan Besar, SHORT OVERNIGHT, 8 Hours, 1159PM-8AM",
+      "url": "https://www.booking.com/hotel/sg/st-signature-lite-jalan-besar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T16:48:50.449314+08:00"
+    },
+    {
+      "name": "Hotel 81 Balestier",
+      "url": "https://www.booking.com/hotel/sg/balestier.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T16:48:54.512075+08:00"
+    },
+    {
+      "name": "Hotel 81 Orchid",
+      "url": "https://www.booking.com/hotel/sg/81-orchid-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:03:51.128804+08:00"
+    },
+    {
+      "name": "Hotel 81 Premier Hollywood",
+      "url": "https://www.booking.com/hotel/sg/81-hollywood.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:03:55.597725+08:00"
+    },
+    {
+      "name": "Hotel 81 Palace - NEWLY RENOVATED",
+      "url": "https://www.booking.com/hotel/sg/81-palace.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:04:00.483515+08:00"
+    },
+    {
+      "name": "Hotel 81 Gold",
+      "url": "https://www.booking.com/hotel/sg/81-gold.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:04:04.604042+08:00"
+    },
+    {
+      "name": "Hotel 81 Premier Star",
+      "url": "https://www.booking.com/hotel/sg/81-star.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:04:09.091503+08:00"
+    },
+    {
+      "name": "Hotel 81 Premier Princess",
+      "url": "https://www.booking.com/hotel/sg/81-princess.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:04:13.433333+08:00"
+    },
+    {
+      "name": "ibis budget Singapore Clove",
+      "url": "https://www.booking.com/hotel/sg/ibis-budget-singapore-clove.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:04:17.990944+08:00"
+    },
+    {
+      "name": "ST Signature Jalan Besar",
+      "url": "https://www.booking.com/hotel/sg/boutique-in-jalan-besar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:04:22.365425+08:00"
+    },
+    {
+      "name": "Hotel 81 Fuji",
+      "url": "https://www.booking.com/hotel/sg/81-fuji.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:04:26.413949+08:00"
+    },
+    {
+      "name": "South East Asia Hotel",
+      "url": "https://www.booking.com/hotel/sg/po-south-east-asia-hotel.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:04:30.069701+08:00"
+    },
+    {
+      "name": "ibis budget Singapore Joo Chiat",
+      "url": "https://www.booking.com/hotel/sg/ibis-budget-singapore-joo-chiat.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:04:34.503612+08:00"
+    },
+    {
+      "name": "Hmlet Chinatown",
+      "url": "https://www.booking.com/hotel/sg/habyt-chinatown.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:04:39.308411+08:00"
+    },
+    {
+      "name": "Hmlet Essentials Kallang",
+      "url": "https://www.booking.com/hotel/sg/habyt-kallang.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:04:43.608805+08:00"
+    },
+    {
+      "name": "Hotel 81 Changi",
+      "url": "https://www.booking.com/hotel/sg/81-changi.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:04:48.405476+08:00"
+    },
+    {
+      "name": "ibis budget Singapore Mount Faber",
+      "url": "https://www.booking.com/hotel/sg/fragrance-royal.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:04:52.701510+08:00"
+    },
+    {
+      "name": "ST Signature Jalan Besar, DAYUSE, 5 Hours, 10AM-3PM",
+      "url": "https://www.booking.com/hotel/sg/st-signature-dawn-jalan-besar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:04:57.335185+08:00"
+    },
+    {
+      "name": "Hotel 81 Dickson",
+      "url": "https://www.booking.com/hotel/sg/81-dickson.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:05:01.460901+08:00"
+    },
+    {
+      "name": "A Hotel Desker",
+      "url": "https://www.booking.com/hotel/sg/in-little-india.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 22,
+      "collected_at": "2026-10-29T17:05:06.955581+08:00"
+    },
+    {
+      "name": "Hotel 81 Elegance",
+      "url": "https://www.booking.com/hotel/sg/elegance-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:05:11.054236+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Oasis",
+      "url": "https://www.booking.com/hotel/sg/fragrance-oasis.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:05:15.713191+08:00"
+    },
+    {
+      "name": "K Hotel 1515",
+      "url": "https://www.booking.com/hotel/sg/k-1515.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:05:20.691551+08:00"
+    },
+    {
+      "name": "K Hotel 14",
+      "url": "https://www.booking.com/hotel/sg/k-14.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:05:24.822912+08:00"
+    },
+    {
+      "name": "Amrise Hotel",
+      "url": "https://www.booking.com/hotel/sg/amrise-singapore2.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:05:29.198465+08:00"
+    },
+    {
+      "name": "GoStay Pods at Perak Road",
+      "url": "https://www.booking.com/hotel/sg/gostay-pods-at-perak.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:05:33.354227+08:00"
+    },
+    {
+      "name": "Venue Hotel",
+      "url": "https://www.booking.com/hotel/sg/venue.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:05:37.667135+08:00"
+    },
+    {
+      "name": "Hotel Sakura by Venue",
+      "url": "https://www.booking.com/hotel/sg/hotel-sakura-by-venue.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:05:42.316620+08:00"
+    },
+    {
+      "name": "Value Hotel Nice",
+      "url": "https://www.booking.com/hotel/sg/value-nice.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:05:47.335803+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Classic",
+      "url": "https://www.booking.com/hotel/sg/fragrance-classic.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:05:51.322238+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Rose",
+      "url": "https://www.booking.com/hotel/sg/fragrance-rose.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:05:55.675131+08:00"
+    },
+    {
+      "name": "Amrise Hotel Geylang",
+      "url": "https://www.booking.com/hotel/sg/a.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 19,
+      "collected_at": "2026-10-29T17:06:00.324126+08:00"
+    },
+    {
+      "name": "Hotel 81 Rochor",
+      "url": "https://www.booking.com/hotel/sg/81-rochor.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:06:05.200833+08:00"
+    },
+    {
+      "name": "Value Hotel Balestier",
+      "url": "https://www.booking.com/hotel/sg/value-balestier.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:06:09.664181+08:00"
+    },
+    {
+      "name": "ibis budget Singapore Gold",
+      "url": "https://www.booking.com/hotel/sg/ibis-budget-singapore-gold.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:06:13.754984+08:00"
+    },
+    {
+      "name": "ST Signature Jalan Besar, DAYUSE, 5 Hours, 5PM-10PM",
+      "url": "https://www.booking.com/hotel/sg/st-signature-dusk-jalan-besar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:06:18.676832+08:00"
+    },
+    {
+      "name": "Nest Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/nest.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:06:23.641687+08:00"
+    },
+    {
+      "name": "Hotel 81 Tristar",
+      "url": "https://www.booking.com/hotel/sg/81-tristar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:06:29.217297+08:00"
+    },
+    {
+      "name": "Newly Renovated - Days Inn by Wyndham Singapore Novena",
+      "url": "https://www.booking.com/hotel/sg/value-thomson.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:06:33.819507+08:00"
+    },
+    {
+      "name": "Classique Hotel",
+      "url": "https://www.booking.com/hotel/sg/classique.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:06:38.216004+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Viva",
+      "url": "https://www.booking.com/hotel/sg/fragrance-viva.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:06:42.297332+08:00"
+    },
+    {
+      "name": "ST Signature Tanjong Pagar, SHORT OVERNIGHT, 12 hours, 8PM-8AM",
+      "url": "https://www.booking.com/hotel/sg/st-signature-tanjong-pagar-short-overnight-14-hours-8pm-10am.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:06:46.409174+08:00"
+    },
+    {
+      "name": "ST Signature Tanjong Pagar, DAYUSE, 8 hours, 10AM-6PM",
+      "url": "https://www.booking.com/hotel/sg/st-signature-tanjong-pagar-dayuse-6-hours-12pm-6pm.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:06:50.440029+08:00"
+    },
+    {
+      "name": "ST Signature Tanjong Pagar",
+      "url": "https://www.booking.com/hotel/sg/in-tanjong-pagar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:06:55.565520+08:00"
+    },
+    {
+      "name": "ibis budget Singapore West Coast",
+      "url": "https://www.booking.com/hotel/sg/ibis-budget-singapore-west-coast.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:07:00.717492+08:00"
+    },
+    {
+      "name": "Hmlet Essentials Novena",
+      "url": "https://www.booking.com/hotel/sg/habyt-novena.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:07:06.731103+08:00"
+    },
+    {
+      "name": "Venue Hotel The Lily",
+      "url": "https://www.booking.com/hotel/sg/venue-the-lily.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:07:11.361450+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Ocean View",
+      "url": "https://www.booking.com/hotel/sg/fragrance-ocean-view.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:07:15.574325+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Kovan",
+      "url": "https://www.booking.com/hotel/sg/fragrance-kovan.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:07:19.586376+08:00"
+    },
+    {
+      "name": "Ambassador Transit Lounge Terminal 3",
+      "url": "https://www.booking.com/hotel/sg/ambassador-transit-lounge-terminal-3.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:07:24.269153+08:00"
+    },
+    {
+      "name": "Hotel Classic by Venue",
+      "url": "https://www.booking.com/hotel/sg/classic-by-venue.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:07:29.098781+08:00"
+    },
+    {
+      "name": "The Quay Hotel Little India at Broadway",
+      "url": "https://www.booking.com/hotel/sg/the-quay-little-india.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 7,
+      "collected_at": "2026-10-29T17:07:33.664073+08:00"
+    },
+    {
+      "name": "Tai Hoe Hotel",
+      "url": "https://www.booking.com/hotel/sg/tai-hoe.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:07:38.215127+08:00"
+    },
+    {
+      "name": "Hotel 81 Bugis",
+      "url": "https://www.booking.com/hotel/sg/81-bugis.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:07:42.923372+08:00"
+    },
+    {
+      "name": "A Hotel Dickson",
+      "url": "https://www.booking.com/hotel/sg/a-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:07:47.979111+08:00"
+    },
+    {
+      "name": "A Hotel Joo Chiat",
+      "url": "https://www.booking.com/hotel/sg/champion-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:07:53.613733+08:00"
+    },
+    {
+      "name": "Bugis Social-Newly Renovated",
+      "url": "https://www.booking.com/hotel/sg/a-bugis-village.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 26,
+      "collected_at": "2026-10-29T17:07:58.851984+08:00"
+    },
+    {
+      "name": "Hotel Clover 7",
+      "url": "https://www.booking.com/hotel/sg/clover-7.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:08:03.056833+08:00"
+    },
+    {
+      "name": "New Cape Inn",
+      "url": "https://www.booking.com/hotel/sg/new-cape-inn-pte-ltd.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:08:07.347205+08:00"
+    },
+    {
+      "name": "ibis budget Singapore Selegie",
+      "url": "https://www.booking.com/hotel/sg/ibis-budget-singapore-selegie.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:08:12.133124+08:00"
+    },
+    {
+      "name": "Newly Refurbished- Heritage Collection on Smith",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-smith.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:08:17.017911+08:00"
+    },
+    {
+      "name": "Hotel 81 Osaka",
+      "url": "https://www.booking.com/hotel/sg/81-osaka.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:08:21.581420+08:00"
+    },
+    {
+      "name": "Harbour Ville Hotel",
+      "url": "https://www.booking.com/hotel/sg/harbour-ville.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:08:27.691516+08:00"
+    },
+    {
+      "name": "Admiralty Hills Serviced Apartment",
+      "url": "https://www.booking.com/hotel/sg/admiralty-hills-serviced-apartment.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:08:32.173926+08:00"
+    },
+    {
+      "name": "Hotel Yan",
+      "url": "https://www.booking.com/hotel/sg/yan.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:08:37.446436+08:00"
+    },
+    {
+      "name": "K Hotel 12",
+      "url": "https://www.booking.com/hotel/sg/k-12-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:08:41.446696+08:00"
+    },
+    {
+      "name": "Ambassador Transit Lounge Terminal 2",
+      "url": "https://www.booking.com/hotel/sg/ambassador-transit-lounge-terminal-2.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:08:46.727671+08:00"
+    },
+    {
+      "name": "Fragrance Hotel - Balestier",
+      "url": "https://www.booking.com/hotel/sg/fragrance-balestier.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:08:51.926692+08:00"
+    },
+    {
+      "name": "Asphodel Inn - Newly Renovated",
+      "url": "https://www.booking.com/hotel/sg/in-farrer-park.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:08:56.990676+08:00"
+    },
+    {
+      "name": "New Orchid Hotel",
+      "url": "https://www.booking.com/hotel/sg/new-orchid.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:09:02.167107+08:00"
+    },
+    {
+      "name": "Hmlet Cantonment",
+      "url": "https://www.booking.com/hotel/sg/hmlet-cantonment.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:09:07.152953+08:00"
+    },
+    {
+      "name": "Hotel 81 Heritage",
+      "url": "https://www.booking.com/hotel/sg/heritage.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:09:11.828798+08:00"
+    },
+    {
+      "name": "ST Signature Jalan Besar, DAYUSE, 7 Hours, 9AM-4PM",
+      "url": "https://www.booking.com/hotel/sg/st-signature-jalan-besar-7-hours-9am-4pm.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:09:15.909192+08:00"
+    },
+    {
+      "name": "Amrise Hotel Kitchener",
+      "url": "https://www.booking.com/hotel/sg/amrise-kitchener.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:09:20.933037+08:00"
+    },
+    {
+      "name": "Kam Leng Hotel",
+      "url": "https://www.booking.com/hotel/sg/kam-leng-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:09:25.386844+08:00"
+    },
+    {
+      "name": "Q Loft Hotels at Bedok",
+      "url": "https://www.booking.com/hotel/sg/q-loft-hotels-bedok-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:09:30.043159+08:00"
+    },
+    {
+      "name": "ibis budget Singapore Imperial",
+      "url": "https://www.booking.com/hotel/sg/ibis-budget-singapore-imperial.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:09:37.715663+08:00"
+    },
+    {
+      "name": "Metro Y Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/the-metropolitan-y.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:09:42.277778+08:00"
+    },
+    {
+      "name": "Arcadia Hotel",
+      "url": "https://www.booking.com/hotel/sg/arcadia.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:09:46.919605+08:00"
+    },
+    {
+      "name": "The Noble Hotel",
+      "url": "https://www.booking.com/hotel/sg/noble-express.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:09:51.867789+08:00"
+    },
+    {
+      "name": "The Quay Hotel West Coast",
+      "url": "https://www.booking.com/hotel/sg/santa-grand-west-coast.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:09:56.227914+08:00"
+    },
+    {
+      "name": "The Quay Hotel Bugis",
+      "url": "https://www.booking.com/hotel/sg/aliwal-park.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:10:00.373969+08:00"
+    },
+    {
+      "name": "The Snooze Hotel Marine Parade",
+      "url": "https://www.booking.com/hotel/sg/reddoorz-near-marine-parade-central.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:10:06.712027+08:00"
+    },
+    {
+      "name": "J8 Hotel",
+      "url": "https://www.booking.com/hotel/sg/j8.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:10:11.127034+08:00"
+    },
+    {
+      "name": "A Hotel Farrer Park - Newly Renovated",
+      "url": "https://www.booking.com/hotel/sg/a-farrer-park.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:10:15.822639+08:00"
+    },
+    {
+      "name": "Jayleen 1918",
+      "url": "https://www.booking.com/hotel/sg/jayleen-1918.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:10:20.396671+08:00"
+    },
+    {
+      "name": "Ibis Styles Singapore On Macpherson",
+      "url": "https://www.booking.com/hotel/sg/ibis-styles-singapore-on-macpherson.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 48,
+      "collected_at": "2026-10-29T17:10:25.793211+08:00"
+    },
+    {
+      "name": "Strand Hotel",
+      "url": "https://www.booking.com/hotel/sg/strand.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:10:30.448568+08:00"
+    },
+    {
+      "name": "Philip Hotel at Little India",
+      "url": "https://www.booking.com/hotel/sg/philip-at-little-india.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:10:34.659686+08:00"
+    },
+    {
+      "name": "Check-Inn at Little India",
+      "url": "https://www.booking.com/hotel/sg/park-22-little-india.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:10:39.243980+08:00"
+    },
+    {
+      "name": "Victoria Hotel a NuVe Group Collection",
+      "url": "https://www.booking.com/hotel/sg/victoria-a-nuve-group-collection.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:10:44.488976+08:00"
+    },
+    {
+      "name": "The Amazing Inn",
+      "url": "https://www.booking.com/hotel/sg/amazing-inn.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "failed",
+      "attempts": 1,
+      "error": "Locator.wait_for: Timeout 25000ms exceeded.\nCall log:\n  - waiting for locator(\"#hprt-table tr[data-block-id] .bui-price-display__value\").first to be visible\n"
+    },
+    {
+      "name": "A Hotel Bugis",
+      "url": "https://www.booking.com/hotel/sg/middle-road-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:11:19.072871+08:00"
+    },
+    {
+      "name": "Heritage Collection on Arab - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-arab.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:11:24.379218+08:00"
+    },
+    {
+      "name": "Heritage Collection on KG - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-kg.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:11:28.952209+08:00"
+    },
+    {
+      "name": "Hotel Boss",
+      "url": "https://www.booking.com/hotel/sg/boss.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 42,
+      "collected_at": "2026-10-29T17:11:34.787319+08:00"
+    },
+    {
+      "name": "Hotel 81 Chinatown",
+      "url": "https://www.booking.com/hotel/sg/81-chinatown.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:11:38.880623+08:00"
+    },
+    {
+      "name": "Hotel Clover 769 North Bridge Road",
+      "url": "https://www.booking.com/hotel/sg/clover.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:11:43.638582+08:00"
+    },
+    {
+      "name": "five6 Hotel Splendour",
+      "url": "https://www.booking.com/hotel/sg/five-47-6-splendour.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:11:48.745156+08:00"
+    },
+    {
+      "name": "HOTEL JJH - newly opened near BUGIS",
+      "url": "https://www.booking.com/hotel/sg/jjh.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 21,
+      "collected_at": "2026-10-29T17:11:53.990825+08:00"
+    },
+    {
+      "name": "Hotel NuVe",
+      "url": "https://www.booking.com/hotel/sg/nuve.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:11:59.600079+08:00"
+    },
+    {
+      "name": "YWCA Fort Canning",
+      "url": "https://www.booking.com/hotel/sg/fortcanning.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 7,
+      "collected_at": "2026-10-29T17:12:04.635912+08:00"
+    },
+    {
+      "name": "STORIES Joo Chiat, a Hotel by Cove - Paya Lebar, Singapore - NEWLY RENOVATED",
+      "url": "https://www.booking.com/hotel/sg/stories-joo-chiat-a-by-cove-paya-lebar-singapore-newly-renovated.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 20,
+      "collected_at": "2026-10-29T17:12:09.549691+08:00"
+    },
+    {
+      "name": "Greatwood Residence at Devonshire",
+      "url": "https://www.booking.com/hotel/sg/greatwood-residence.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:12:14.900232+08:00"
+    },
+    {
+      "name": "lyf Chinatown Singapore",
+      "url": "https://www.booking.com/hotel/sg/lyf-chinatown-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:12:19.436903+08:00"
+    },
+    {
+      "name": "Travelodge Harbourfront Singapore",
+      "url": "https://www.booking.com/hotel/sg/bay-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 40,
+      "collected_at": "2026-10-29T17:12:25.244305+08:00"
+    },
+    {
+      "name": "Heritage Collection on Victoria - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-victoria.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:12:30.779170+08:00"
+    },
+    {
+      "name": "The Snooze Hotel at Bugis",
+      "url": "https://www.booking.com/hotel/sg/marrison.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:12:35.383992+08:00"
+    },
+    {
+      "name": "Hotel Mi Bencoolen",
+      "url": "https://www.booking.com/hotel/sg/mi.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:12:40.010209+08:00"
+    },
+    {
+      "name": "The Seacare Hotel",
+      "url": "https://www.booking.com/hotel/sg/the-seacare.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:12:45.192603+08:00"
+    },
+    {
+      "name": "Hotel Mono",
+      "url": "https://www.booking.com/hotel/sg/dragon-court.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:12:50.845971+08:00"
+    },
+    {
+      "name": "Owen House by Hmlet",
+      "url": "https://www.booking.com/hotel/sg/owen-house-by-hmlet.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:12:55.982400+08:00"
+    },
+    {
+      "name": "ST Signature Chinatown",
+      "url": "https://www.booking.com/hotel/sg/in-chinatown.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:13:01.032421+08:00"
+    },
+    {
+      "name": "lyf Bugis Singapore managed by The Ascott Ltd",
+      "url": "https://www.booking.com/hotel/sg/big.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 23,
+      "collected_at": "2026-10-29T17:13:06.268121+08:00"
+    },
+    {
+      "name": "Rest Chinatown Hotel",
+      "url": "https://www.booking.com/hotel/sg/jinshan-hotel.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 7,
+      "collected_at": "2026-10-29T17:13:10.998741+08:00"
+    },
+    {
+      "name": "Bliss Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/bliss-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:13:16.274820+08:00"
+    },
+    {
+      "name": "Hmlet Kada at Maxwell",
+      "url": "https://www.booking.com/hotel/sg/habyt-kada-at-maxwell.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:13:21.186309+08:00"
+    },
+    {
+      "name": "A Hotel Chinatown",
+      "url": "https://www.booking.com/hotel/sg/1929-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:13:26.095618+08:00"
+    },
+    {
+      "name": "KēSa House, The Unlimited Collection managed by The Ascott Limited",
+      "url": "https://www.booking.com/hotel/sg/kesa-house-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:13:30.801112+08:00"
+    },
+    {
+      "name": "The Quay Hotel",
+      "url": "https://www.booking.com/hotel/sg/santa-grand-boat-quay.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:13:35.320156+08:00"
+    },
+    {
+      "name": "ST Signature Midtown",
+      "url": "https://www.booking.com/hotel/sg/st-signature-midtown.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:13:39.720340+08:00"
+    },
+    {
+      "name": "YMCA One Orchard",
+      "url": "https://www.booking.com/hotel/sg/ymca-one-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:13:44.094244+08:00"
+    },
+    {
+      "name": "Hotel Mi Rochor",
+      "url": "https://www.booking.com/hotel/sg/mi-rochor.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 34,
+      "collected_at": "2026-10-29T17:13:49.416753+08:00"
+    },
+    {
+      "name": "Mber Co-Living Serviced Apartments",
+      "url": "https://www.booking.com/hotel/sg/mber-at-teck-chye-terrace.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 30,
+      "collected_at": "2026-10-29T17:13:54.708581+08:00"
+    },
+    {
+      "name": "V Hotel Lavender",
+      "url": "https://www.booking.com/hotel/sg/v-lavender.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:13:59.681857+08:00"
+    },
+    {
+      "name": "Heritage Collection on Boat Quay - Quayside Wing - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-boat-quay-quayside-wing.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:14:04.681646+08:00"
+    },
+    {
+      "name": "Hotel Chancellor@Orchard",
+      "url": "https://www.booking.com/hotel/sg/chancellor-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 13,
+      "collected_at": "2026-10-29T17:14:09.966054+08:00"
+    },
+    {
+      "name": "SENG WAH HOTEL",
+      "url": "https://www.booking.com/hotel/sg/seng-wah-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:14:14.337095+08:00"
+    },
+    {
+      "name": "Santa Grand Hotel East Coast a NuVe Group Collection",
+      "url": "https://www.booking.com/hotel/sg/santa-grand-east-coast.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 22,
+      "collected_at": "2026-10-29T17:14:19.480182+08:00"
+    },
+    {
+      "name": "Park View Hotel",
+      "url": "https://www.booking.com/hotel/sg/park-view.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:14:23.976946+08:00"
+    },
+    {
+      "name": "Aura Hotel Purvis",
+      "url": "https://www.booking.com/hotel/sg/nova-bugis-newly-renovated.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:14:28.757187+08:00"
+    },
+    {
+      "name": "Summer View Hotel",
+      "url": "https://www.booking.com/hotel/sg/summerview.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:14:34.097701+08:00"
+    },
+    {
+      "name": "Studio M Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/studio-m.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 46,
+      "collected_at": "2026-10-29T17:14:39.737140+08:00"
+    },
+    {
+      "name": "Rest Rochor Hotel",
+      "url": "https://www.booking.com/hotel/sg/rest-rocher.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 7,
+      "collected_at": "2026-10-29T17:14:44.655177+08:00"
+    },
+    {
+      "name": "Aura Hotel Mackenzie",
+      "url": "https://www.booking.com/hotel/sg/dash-living-by-aura.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:14:49.468959+08:00"
+    },
+    {
+      "name": "Ibis Singapore on Bencoolen",
+      "url": "https://www.booking.com/hotel/sg/ibis-singapore-on-bencoolen.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 48,
+      "collected_at": "2026-10-29T17:14:56.178847+08:00"
+    },
+    {
+      "name": "V Hotel Bencoolen",
+      "url": "https://www.booking.com/hotel/sg/v-bencoolen.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:15:00.931757+08:00"
+    },
+    {
+      "name": "Rest Bugis Hotel",
+      "url": "https://www.booking.com/hotel/sg/santa-grand-bugis.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 32,
+      "collected_at": "2026-10-29T17:15:06.823926+08:00"
+    },
+    {
+      "name": "Aura Opera House Chinatown- Newly Renovated",
+      "url": "https://www.booking.com/hotel/sg/the-opeara-house-chinatown-newly-renovated.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 28,
+      "collected_at": "2026-10-29T17:15:13.165596+08:00"
+    },
+    {
+      "name": "Heritage Collection on Pagoda - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-pagoda.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:15:17.908453+08:00"
+    },
+    {
+      "name": "M Social Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/m-social-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 84,
+      "collected_at": "2026-10-29T17:15:25.563462+08:00"
+    },
+    {
+      "name": "lyf Farrer Park Singapore",
+      "url": "https://www.booking.com/hotel/sg/lyf-farrer-park-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:15:30.178390+08:00"
+    },
+    {
+      "name": "Hotel Faber Park Singapore - Handwritten Collection",
+      "url": "https://www.booking.com/hotel/sg/faber-park-singapore-handwritten-collection.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:15:34.966681+08:00"
+    },
+    {
+      "name": "SOCIAL on Mayo",
+      "url": "https://www.booking.com/hotel/sg/the-assembly-place-at-mayo.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:15:39.655074+08:00"
+    },
+    {
+      "name": "Republic of Singapore Yacht Club",
+      "url": "https://www.booking.com/hotel/sg/republic-of-singapore-yacht-club.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:15:44.096007+08:00"
+    },
+    {
+      "name": "ibis Styles Singapore Albert",
+      "url": "https://www.booking.com/hotel/sg/ibis-styles-singapore-albert.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:15:48.570704+08:00"
+    },
+    {
+      "name": "Heritage Collection on Boon Tat",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-boon-tat.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:15:53.416691+08:00"
+    },
+    {
+      "name": "Arton Boutique Hotel",
+      "url": "https://www.booking.com/hotel/sg/arton-boutique.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:15:58.072813+08:00"
+    },
+    {
+      "name": "Heritage Collection on Chinatown - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/hometown-inn.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:16:03.287266+08:00"
+    },
+    {
+      "name": "Hotel NuVe Heritage",
+      "url": "https://www.booking.com/hotel/sg/adonis.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:16:08.432941+08:00"
+    },
+    {
+      "name": "lyf Funan Singapore",
+      "url": "https://www.booking.com/hotel/sg/lyf-funan.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:16:13.056789+08:00"
+    },
+    {
+      "name": "The Southbridge Hotel",
+      "url": "https://www.booking.com/hotel/sg/the-southbridge.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:16:17.716272+08:00"
+    },
+    {
+      "name": "Village Hotel Albert Court by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/albert-court.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:16:23.533087+08:00"
+    },
+    {
+      "name": "Grand Mercure Singapore Roxy",
+      "url": "https://www.booking.com/hotel/sg/grandmercureroxy.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 39,
+      "collected_at": "2026-10-29T17:16:30.483673+08:00"
+    },
+    {
+      "name": "Ibis Singapore Novena",
+      "url": "https://www.booking.com/hotel/sg/ibis-singapore-novena.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:16:35.750964+08:00"
+    },
+    {
+      "name": "VicHaus Serviced Apartment",
+      "url": "https://www.booking.com/hotel/sg/vichaus-serviced-apartment.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:16:40.903124+08:00"
+    },
+    {
+      "name": "Citadines Rochor Singapore",
+      "url": "https://www.booking.com/hotel/sg/citadines-rochor.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 26,
+      "collected_at": "2026-10-29T17:16:45.923390+08:00"
+    },
+    {
+      "name": "Hotel Royal Singapore",
+      "url": "https://www.booking.com/hotel/sg/royal.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:16:50.595428+08:00"
+    },
+    {
+      "name": "Luma41",
+      "url": "https://www.booking.com/hotel/sg/nuve-elements.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 17,
+      "collected_at": "2026-10-29T17:16:55.581378+08:00"
+    },
+    {
+      "name": "Wanderlust, The Unlimited Collection managed by The Ascott Limited",
+      "url": "https://www.booking.com/hotel/sg/wanderlust.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:17:00.014307+08:00"
+    },
+    {
+      "name": "Mercure Singapore Bugis",
+      "url": "https://www.booking.com/hotel/sg/mercure-singapore-bugis.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 49,
+      "collected_at": "2026-10-29T17:17:05.684506+08:00"
+    },
+    {
+      "name": "Holiday Inn Express & Suites Singapore Novena by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-express-suites-singapore-novena.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 54,
+      "collected_at": "2026-10-29T17:17:12.863534+08:00"
+    },
+    {
+      "name": "Mercure ICON Singapore City Centre",
+      "url": "https://www.booking.com/hotel/sg/icon-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 48,
+      "collected_at": "2026-10-29T17:17:18.542361+08:00"
+    },
+    {
+      "name": "Claude Hotel",
+      "url": "https://www.booking.com/hotel/sg/1855.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:17:23.442231+08:00"
+    },
+    {
+      "name": "Hilton Garden Inn Singapore Serangoon",
+      "url": "https://www.booking.com/hotel/sg/hilton-garden-inn-singapore-serangoon.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 81,
+      "collected_at": "2026-10-29T17:17:30.058625+08:00"
+    },
+    {
+      "name": "YOTEL Singapore Orchard Road",
+      "url": "https://www.booking.com/hotel/sg/yotel-singapore-orchard-road.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 38,
+      "collected_at": "2026-10-29T17:17:36.098821+08:00"
+    },
+    {
+      "name": "Village Hotel Bugis by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/golden-landmark.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:17:41.820904+08:00"
+    },
+    {
+      "name": "Holiday Inn Express Singapore Serangoon by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-express-singapore-serangoon.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 42,
+      "collected_at": "2026-10-29T17:17:47.150225+08:00"
+    },
+    {
+      "name": "Furama RiverFront",
+      "url": "https://www.booking.com/hotel/sg/furama-riverfront.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 32,
+      "collected_at": "2026-10-29T17:17:53.808830+08:00"
+    },
+    {
+      "name": "Hotel 1900 Chinatown",
+      "url": "https://www.booking.com/hotel/sg/1900.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:17:59.385773+08:00"
+    },
+    {
+      "name": "The Sultan",
+      "url": "https://www.booking.com/hotel/sg/the-sultan.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 19,
+      "collected_at": "2026-10-29T17:18:05.425213+08:00"
+    },
+    {
+      "name": "KINN Studios",
+      "url": "https://www.booking.com/hotel/sg/kinn-studios.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:18:09.891280+08:00"
+    },
+    {
+      "name": "Hotel Grand Central",
+      "url": "https://www.booking.com/hotel/sg/grand-central.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:18:15.170119+08:00"
+    },
+    {
+      "name": "Alma House",
+      "url": "https://www.booking.com/hotel/sg/alma-house.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:18:20.093692+08:00"
+    },
+    {
+      "name": "ST Signature Bugis Middle",
+      "url": "https://www.booking.com/hotel/sg/st-signature-bugis-middle-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:18:25.541129+08:00"
+    },
+    {
+      "name": "Nostalgia Hotel",
+      "url": "https://www.booking.com/hotel/sg/nostalgia.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:18:29.822540+08:00"
+    },
+    {
+      "name": "Hotel Calmo Bugis",
+      "url": "https://www.booking.com/hotel/sg/calmo-bugis.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:18:34.143525+08:00"
+    },
+    {
+      "name": "Hotel Waterloo Singapore - Handwritten Collection",
+      "url": "https://www.booking.com/hotel/sg/waterloo-singapore-handwritten-collection.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:18:38.690413+08:00"
+    },
+    {
+      "name": "Village Hotel Changi by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/changi-village-a-far-east.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:18:43.272423+08:00"
+    },
+    {
+      "name": "Aqueen Prestige Hotel Lavender",
+      "url": "https://www.booking.com/hotel/sg/aqueen-prestige-lavender.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 19,
+      "collected_at": "2026-10-29T17:18:48.445595+08:00"
+    },
+    {
+      "name": "Furama City Centre",
+      "url": "https://www.booking.com/hotel/sg/furama-city-centre.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 17,
+      "collected_at": "2026-10-29T17:18:53.656286+08:00"
+    },
+    {
+      "name": "ISA Hotel Amber Road",
+      "url": "https://www.booking.com/hotel/sg/isa-1930s.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:18:59.021603+08:00"
+    },
+    {
+      "name": "Dorsett Singapore",
+      "url": "https://www.booking.com/hotel/sg/dorsett-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 36,
+      "collected_at": "2026-10-29T17:19:04.729771+08:00"
+    },
+    {
+      "name": "Heritage Collection on Clarke Quay - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/bunc-radius-clarke-quay.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:19:09.159692+08:00"
+    },
+    {
+      "name": "York Hotel",
+      "url": "https://www.booking.com/hotel/sg/yorkhotel.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:19:14.964158+08:00"
+    },
+    {
+      "name": "Link Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/link-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:19:20.182107+08:00"
+    },
+    {
+      "name": "KINN Habitat",
+      "url": "https://www.booking.com/hotel/sg/kinn-habitat.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 13,
+      "collected_at": "2026-10-29T17:19:25.245916+08:00"
+    },
+    {
+      "name": "Dash Living Rochor",
+      "url": "https://www.booking.com/hotel/sg/dash-living-rochor.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:19:29.756649+08:00"
+    },
+    {
+      "name": "JEN Singapore Tanglin by Shangri-La",
+      "url": "https://www.booking.com/hotel/sg/jen-singapore-tanglin-by-shangri-la.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:19:34.960772+08:00"
+    },
+    {
+      "name": "Dusit Thani Laguna Singapore",
+      "url": "https://www.booking.com/hotel/sg/dusit-thani-laguna-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 76,
+      "collected_at": "2026-10-29T17:19:41.437245+08:00"
+    },
+    {
+      "name": "Mama Shelter Singapore Orchard - Newly Opened",
+      "url": "https://www.booking.com/hotel/sg/mama-shelter-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:19:46.387400+08:00"
+    },
+    {
+      "name": "The Assembly Place at Stevens, Service Residences",
+      "url": "https://www.booking.com/hotel/sg/the-assembly-place-at-stevens-service-residences.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:19:51.017524+08:00"
+    },
+    {
+      "name": "Mercure Singapore On Stevens",
+      "url": "https://www.booking.com/hotel/sg/mercure-singapore-on-stevens.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 98,
+      "collected_at": "2026-10-29T17:19:57.824984+08:00"
+    },
+    {
+      "name": "Aqueen Prestige Hotel Jalan Besar",
+      "url": "https://www.booking.com/hotel/sg/aqueen-prestige-jalan-besar.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:20:02.701222+08:00"
+    },
+    {
+      "name": "Hollandse Club Retreat",
+      "url": "https://www.booking.com/hotel/sg/hollandse-club-residence.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:20:07.587864+08:00"
+    },
+    {
+      "name": "Holiday Inn Express Singapore Katong by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-express-singapore-katong.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 42,
+      "collected_at": "2026-10-29T17:20:13.077246+08:00"
+    },
+    {
+      "name": "Holiday Inn Express Singapore Clarke Quay by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-express-singapore-clarke-quay.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 36,
+      "collected_at": "2026-10-29T17:20:19.196692+08:00"
+    },
+    {
+      "name": "Alocassia Serviced Apartments",
+      "url": "https://www.booking.com/hotel/sg/alocassia-serviced-apartments.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:20:23.911554+08:00"
+    },
+    {
+      "name": "Hotel Bencoolen Singapore",
+      "url": "https://www.booking.com/hotel/sg/bencoolen-singapore-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:20:28.602768+08:00"
+    },
+    {
+      "name": "Changi Cove",
+      "url": "https://www.booking.com/hotel/sg/changi-cove.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:20:33.286706+08:00"
+    },
+    {
+      "name": "Vibe Hotel Singapore Orchard",
+      "url": "https://www.booking.com/hotel/sg/vibe-hotel-singapore-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:20:38.545461+08:00"
+    },
+    {
+      "name": "Holiday Inn Singapore Little India by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-singapore-little-india.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 70,
+      "collected_at": "2026-10-29T17:20:44.362332+08:00"
+    },
+    {
+      "name": "Four Points by Sheraton Singapore, Jurong",
+      "url": "https://www.booking.com/hotel/sg/four-points-by-sheraton-singapore-jurong.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:20:49.456046+08:00"
+    },
+    {
+      "name": "M Hotel Singapore City Centre",
+      "url": "https://www.booking.com/hotel/sg/m-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 180,
+      "collected_at": "2026-10-29T17:20:58.446711+08:00"
+    },
+    {
+      "name": "Quincy House Singapore by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/quincy-house-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:21:07.461144+08:00"
+    },
+    {
+      "name": "Hmlet Essentials Clarke Quay",
+      "url": "https://www.booking.com/hotel/sg/champion-city.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:21:11.706257+08:00"
+    },
+    {
+      "name": "Copthorne King's Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/copthorne-king-s.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 87,
+      "collected_at": "2026-10-29T17:21:19.262699+08:00"
+    },
+    {
+      "name": "Citadines Connect Rochester Singapore",
+      "url": "https://www.booking.com/hotel/sg/citadines-connect-rochester-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:21:24.495435+08:00"
+    },
+    {
+      "name": "Dorsett Changi City Singapore",
+      "url": "https://www.booking.com/hotel/sg/dorsett-changi-city-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:21:29.408725+08:00"
+    },
+    {
+      "name": "DoubleTree by Hilton Singapore Robertson Quay",
+      "url": "https://www.booking.com/hotel/sg/doubletree-by-hilton-singapore-robertson-quay.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 42,
+      "collected_at": "2026-10-29T17:21:34.644346+08:00"
+    },
+    {
+      "name": "Hotel Traveltine Downtown Singapore, Trademark Collection by Wyndham",
+      "url": "https://www.booking.com/hotel/sg/hotel-traveltine-downtown-singapore-trademark-collection.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:21:39.317568+08:00"
+    },
+    {
+      "name": "K2 Guesthouse",
+      "url": "https://www.booking.com/hotel/sg/k2-guest-house.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:21:45.406456+08:00"
+    },
+    {
+      "name": "Ji Hotel Orchard Singapore",
+      "url": "https://www.booking.com/hotel/sg/ji-hotel-orchard-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:21:50.405310+08:00"
+    },
+    {
+      "name": "Aloft by Marriott Singapore Novena",
+      "url": "https://www.booking.com/hotel/sg/aloft-singapore-novena.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 27,
+      "collected_at": "2026-10-29T17:21:56.069801+08:00"
+    },
+    {
+      "name": "The Family Suites Serviced Apartments",
+      "url": "https://www.booking.com/hotel/sg/the-family-suites-serviced-apartments.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:22:00.224328+08:00"
+    },
+    {
+      "name": "Hotel Royal Queens",
+      "url": "https://www.booking.com/hotel/sg/royal-queens.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 20,
+      "collected_at": "2026-10-29T17:22:05.490380+08:00"
+    },
+    {
+      "name": "Oasia Hotel Novena, Singapore by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/oasia-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:22:10.178615+08:00"
+    },
+    {
+      "name": "Lanson Place Winsland, Singapore",
+      "url": "https://www.booking.com/hotel/sg/lanson-place-winsland-residences.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:22:15.323536+08:00"
+    },
+    {
+      "name": "Park Avenue Clemenceau",
+      "url": "https://www.booking.com/hotel/sg/park-avenue-clemenceau.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:22:20.418910+08:00"
+    },
+    {
+      "name": "Novotel Singapore Robertson Quay",
+      "url": "https://www.booking.com/hotel/sg/novotel-robertson-quay.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 28,
+      "collected_at": "2026-10-29T17:22:25.903990+08:00"
+    },
+    {
+      "name": "Citadines Science Park Singapore",
+      "url": "https://www.booking.com/hotel/sg/citadines-science-park-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:22:30.670254+08:00"
+    },
+    {
+      "name": "Concorde Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/concorde-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:22:35.330611+08:00"
+    },
+    {
+      "name": "Orchard Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/orchard-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 90,
+      "collected_at": "2026-10-29T17:22:41.970437+08:00"
+    },
+    {
+      "name": "Holiday Inn Singapore Atrium by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-atrium.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 81,
+      "collected_at": "2026-10-29T17:22:49.068686+08:00"
+    },
+    {
+      "name": "Louis Kienne Serviced Residences - Havelock",
+      "url": "https://www.booking.com/hotel/sg/louis-kienne-serviced-residences-havelock.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:22:55.318547+08:00"
+    },
+    {
+      "name": "The Vagabond Club, a Tribute Portfolio Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/vagabond.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:23:01.387503+08:00"
+    },
+    {
+      "name": "Lloyd's Inn",
+      "url": "https://www.booking.com/hotel/sg/lloyd-39-s-inn.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:23:06.154715+08:00"
+    },
+    {
+      "name": "Park Avenue Rochester",
+      "url": "https://www.booking.com/hotel/sg/park-avenue-rochester.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:23:11.485192+08:00"
+    },
+    {
+      "name": "Holiday Inn Express Singapore Orchard Road by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-express-singapore-orchard-road.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 39,
+      "collected_at": "2026-10-29T17:23:16.905014+08:00"
+    },
+    {
+      "name": "Oakwood Studios Singapore",
+      "url": "https://www.booking.com/hotel/sg/oakwood-studios-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:23:21.759768+08:00"
+    },
+    {
+      "name": "One Farrer Hotel",
+      "url": "https://www.booking.com/hotel/sg/one-farrer-amp-spa.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 30,
+      "collected_at": "2026-10-29T17:23:27.261906+08:00"
+    },
+    {
+      "name": "Quincy Hotel Singapore by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/quincy.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:23:32.498245+08:00"
+    },
+    {
+      "name": "Orchard Rendezvous Hotel by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/orchard-parade.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:23:37.457061+08:00"
+    },
+    {
+      "name": "Novotel Singapore On Stevens",
+      "url": "https://www.booking.com/hotel/sg/novotel-singapore-on-stevens.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 72,
+      "collected_at": "2026-10-29T17:23:43.831556+08:00"
+    },
+    {
+      "name": "Park Regis by Prince Singapore",
+      "url": "https://www.booking.com/hotel/sg/park-regis-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:23:49.048987+08:00"
+    },
+    {
+      "name": "Oxley Thanksgiving Residence",
+      "url": "https://www.booking.com/hotel/sg/thanksgiving-serviced-residence.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:23:53.657705+08:00"
+    },
+    {
+      "name": "Village Hotel Sentosa by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/village-at-sentosa.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:23:57.948140+08:00"
+    },
+    {
+      "name": "Grand Copthorne Waterfront Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/grand-copthorne-waterfront.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 126,
+      "collected_at": "2026-10-29T17:24:08.558800+08:00"
+    },
+    {
+      "name": "Hotel Stripes Singapore Chinatown, Autograph Collection",
+      "url": "https://www.booking.com/hotel/sg/hotel-stripes-singapore-chinatown-autograph-collection.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 36,
+      "collected_at": "2026-10-29T17:24:13.235768+08:00"
+    },
+    {
+      "name": "iNN at Temple Street By Q loft",
+      "url": "https://www.booking.com/hotel/sg/the-inn-at-chinatown.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:24:17.797732+08:00"
+    },
+    {
+      "name": "Oasia Residence Singapore by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/oasia-residence-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:24:22.921090+08:00"
+    },
+    {
+      "name": "Citadines Fusionopolis Singapore",
+      "url": "https://www.booking.com/hotel/sg/citadines-fusionopolis-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:24:28.155496+08:00"
+    },
+    {
+      "name": "Citadines Connect City Centre Singapore",
+      "url": "https://www.booking.com/hotel/sg/citadines-connect-city-centre-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 40,
+      "collected_at": "2026-10-29T17:24:33.848934+08:00"
+    },
+    {
+      "name": "Orchard Grand Court",
+      "url": "https://www.booking.com/hotel/sg/orchard-grand-court.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:24:39.109074+08:00"
+    },
+    {
+      "name": "AMOY by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/amoy-by-far-east-hospitality.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:24:44.445591+08:00"
+    },
+    {
+      "name": "The Serangoon House Little India, Singapore, a Tribute Portfolio Hotel",
+      "url": "https://www.booking.com/hotel/sg/the-serangoon-house.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 56,
+      "collected_at": "2026-10-29T17:24:50.303032+08:00"
+    },
+    {
+      "name": "Wyndham Singapore Hotel",
+      "url": "https://www.booking.com/hotel/sg/wyndham-singapore-hotel.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 60,
+      "collected_at": "2026-10-29T17:24:56.437759+08:00"
+    },
+    {
+      "name": "Hotel Indigo Singapore Katong by IHG",
+      "url": "https://www.booking.com/hotel/sg/indigo-singapore-katong.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 37,
+      "collected_at": "2026-10-29T17:25:02.714024+08:00"
+    },
+    {
+      "name": "APT Stamford Place",
+      "url": "https://www.booking.com/hotel/sg/apt-stamford-place.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:25:07.782293+08:00"
+    },
+    {
+      "name": "The Outpost Hotel Sentosa by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/the-outpost.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:25:12.384511+08:00"
+    },
+    {
+      "name": "Liv Residences Serviced Apartment Novena",
+      "url": "https://www.booking.com/hotel/sg/liv-residences-serviced-apartment.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:25:17.983059+08:00"
+    },
+    {
+      "name": "Novotel Living Singapore Orchard",
+      "url": "https://www.booking.com/hotel/sg/novotel-living-singapore-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:25:23.370245+08:00"
+    },
+    {
+      "name": "Oasia Resort Sentosa by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/oasia-resort-sentosa-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:25:28.051578+08:00"
+    },
+    {
+      "name": "Heritage Collection on Ann Siang - Mobile App Check-In",
+      "url": "https://www.booking.com/hotel/sg/heritage-collection-on-ann-siang.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 2,
+      "collected_at": "2026-10-29T17:25:32.890504+08:00"
+    },
+    {
+      "name": "YOTELAIR Singapore Changi Airport Landside",
+      "url": "https://www.booking.com/hotel/sg/yotelair-singapore-changi-airport.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 3,
+      "collected_at": "2026-10-29T17:25:37.809733+08:00"
+    },
+    {
+      "name": "Carlton City Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/carlton-city-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 20,
+      "collected_at": "2026-10-29T17:25:42.651011+08:00"
+    },
+    {
+      "name": "Fraser Residence River Promenade, Singapore",
+      "url": "https://www.booking.com/hotel/sg/fraser-residence-river-promenade-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:25:48.530049+08:00"
+    },
+    {
+      "name": "Pullman Singapore Hill Street",
+      "url": "https://www.booking.com/hotel/sg/pullman-singapore-hill-street.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 48,
+      "collected_at": "2026-10-29T17:25:54.212753+08:00"
+    },
+    {
+      "name": "Four Points by Sheraton Singapore, Riverview",
+      "url": "https://www.booking.com/hotel/sg/four-points-by-sheraton-singapore-riverview.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:25:59.060451+08:00"
+    },
+    {
+      "name": "Mondrian Singapore Duxton",
+      "url": "https://www.booking.com/hotel/sg/mondrian-singapore-duxton.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 68,
+      "collected_at": "2026-10-29T17:26:05.512124+08:00"
+    },
+    {
+      "name": "Citadines Balestier Singapore",
+      "url": "https://www.booking.com/hotel/sg/citadines-balestier.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:26:10.598969+08:00"
+    },
+    {
+      "name": "JEN Singapore Orchardgateway by Shangri-La",
+      "url": "https://www.booking.com/hotel/sg/jen-orchardgateway-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 21,
+      "collected_at": "2026-10-29T17:26:16.416830+08:00"
+    },
+    {
+      "name": "Orchard Parksuites by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/orchard-parksuites.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:26:21.430241+08:00"
+    },
+    {
+      "name": "Le Grove Serviced Residences",
+      "url": "https://www.booking.com/hotel/sg/le-grove-serviced-apartments.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:26:26.173464+08:00"
+    },
+    {
+      "name": "Oasia Hotel Downtown, Singapore by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/oasia-downtown-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 13,
+      "collected_at": "2026-10-29T17:26:30.978913+08:00"
+    },
+    {
+      "name": "The Initial Sama Serviced Residences",
+      "url": "https://www.booking.com/hotel/sg/the-initial-sama-serviced-residences.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:26:35.905900+08:00"
+    },
+    {
+      "name": "The White House - Serviced Residences by Cove & Belle Living",
+      "url": "https://www.booking.com/hotel/sg/hovoh-homes-bugis-beach.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:26:41.032851+08:00"
+    },
+    {
+      "name": "The Standard, Singapore",
+      "url": "https://www.booking.com/hotel/sg/the-standard-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 52,
+      "collected_at": "2026-10-29T17:26:49.076227+08:00"
+    },
+    {
+      "name": "Village Residence Robertson Quay by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/riverside-village-residences.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:26:54.347119+08:00"
+    },
+    {
+      "name": "Pullman Singapore Orchard",
+      "url": "https://www.booking.com/hotel/sg/pullman-singapore-orchard-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 72,
+      "collected_at": "2026-10-29T17:27:01.516775+08:00"
+    },
+    {
+      "name": "Maxwell Reserve Singapore, Autograph Collection",
+      "url": "https://www.booking.com/hotel/sg/maxwell-reserve.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 23,
+      "collected_at": "2026-10-29T17:27:08.457938+08:00"
+    },
+    {
+      "name": "Moulmein Studios by K&C Serviced Apartment",
+      "url": "https://www.booking.com/hotel/sg/moulmein-studios-by-k-amp-c-serviced-apartment.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:27:14.920656+08:00"
+    },
+    {
+      "name": "Varel Singapore, a Tribute Portfolio Hotel",
+      "url": "https://www.booking.com/hotel/sg/varel-singapore-a-tribute-portfolio.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 15,
+      "collected_at": "2026-10-29T17:27:20.576268+08:00"
+    },
+    {
+      "name": "Paradox Singapore",
+      "url": "https://www.booking.com/hotel/sg/paradox-singapore-merchant-court-at-clarke-quay-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:27:26.104936+08:00"
+    },
+    {
+      "name": "Dao by Dorsett AMTD Singapore",
+      "url": "https://www.booking.com/hotel/sg/dao-by-dorsett-amtd-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 42,
+      "collected_at": "2026-10-29T17:27:32.793186+08:00"
+    },
+    {
+      "name": "Orchid Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/orchid-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:27:37.947112+08:00"
+    },
+    {
+      "name": "voco Orchard Singapore by IHG",
+      "url": "https://www.booking.com/hotel/sg/voco-orchard-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 91,
+      "collected_at": "2026-10-29T17:27:46.525631+08:00"
+    },
+    {
+      "name": "Andaz Singapore, By Hyatt",
+      "url": "https://www.booking.com/hotel/sg/andaz-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 44,
+      "collected_at": "2026-10-29T17:27:53.659206+08:00"
+    },
+    {
+      "name": "Hotel Bencoolen at Hong Kong Street",
+      "url": "https://www.booking.com/hotel/sg/bencoolen-hong-kong-street.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:27:59.514213+08:00"
+    },
+    {
+      "name": "PARKROYAL on Beach Road, Singapore",
+      "url": "https://www.booking.com/hotel/sg/parkroyal-on-beach-road.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:28:05.104536+08:00"
+    },
+    {
+      "name": "Somerset Bencoolen Singapore",
+      "url": "https://www.booking.com/hotel/sg/somerset-bencoolen.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:28:12.939013+08:00"
+    },
+    {
+      "name": "21 Carpenter, Singapore, a Member of Design Hotels",
+      "url": "https://www.booking.com/hotel/sg/21-carpenter.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 42,
+      "collected_at": "2026-10-29T17:28:22.830915+08:00"
+    },
+    {
+      "name": "Ascott Orchard Singapore",
+      "url": "https://www.booking.com/hotel/sg/ascott-orchard-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:28:28.558604+08:00"
+    },
+    {
+      "name": "Ascott Raffles Place Singapore",
+      "url": "https://www.booking.com/hotel/sg/ascott-singapore-raffles-place.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:28:34.610094+08:00"
+    },
+    {
+      "name": "Royal Plaza on Scotts",
+      "url": "https://www.booking.com/hotel/sg/royal-plaza-on-scotts.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 30,
+      "collected_at": "2026-10-29T17:28:42.121887+08:00"
+    },
+    {
+      "name": "Naumi Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/naumi.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 28,
+      "collected_at": "2026-10-29T17:28:55.185873+08:00"
+    },
+    {
+      "name": "Crowne Plaza Changi Airport by IHG",
+      "url": "https://www.booking.com/hotel/sg/crowne-plaza-changi-airport.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 55,
+      "collected_at": "2026-10-29T17:29:03.478028+08:00"
+    },
+    {
+      "name": "Weave Suites - Novena",
+      "url": "https://www.booking.com/hotel/sg/weave-suites-novena.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 10,
+      "collected_at": "2026-10-29T17:29:09.804199+08:00"
+    },
+    {
+      "name": "Sheraton Towers Singapore Hotel",
+      "url": "https://www.booking.com/hotel/sg/sheraton-towers-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 50,
+      "collected_at": "2026-10-29T17:29:15.642398+08:00"
+    },
+    {
+      "name": "The Warehouse Hotel, Singapore, a Member of Design Hotels",
+      "url": "https://www.booking.com/hotel/sg/the-warehouse.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 24,
+      "collected_at": "2026-10-29T17:29:20.649509+08:00"
+    },
+    {
+      "name": "Oakwood Premier Raffles Place Singapore",
+      "url": "https://www.booking.com/hotel/sg/oakwood-premier-raffles-place-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 22,
+      "collected_at": "2026-10-29T17:29:29.281366+08:00"
+    },
+    {
+      "name": "Fraser Suites Singapore",
+      "url": "https://www.booking.com/hotel/sg/fraser-suites-river-valley-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:29:34.155806+08:00"
+    },
+    {
+      "name": "QT Singapore",
+      "url": "https://www.booking.com/hotel/sg/telegraph-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:29:39.910404+08:00"
+    },
+    {
+      "name": "Carlton Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/carlton.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 22,
+      "collected_at": "2026-10-29T17:29:45.600028+08:00"
+    },
+    {
+      "name": "Grand Park City Hall",
+      "url": "https://www.booking.com/hotel/sg/grand-plaza-park-city-hall.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 56,
+      "collected_at": "2026-10-29T17:29:52.845330+08:00"
+    },
+    {
+      "name": "Ann Siang House, The Unlimited Collection managed by The Ascott Limited",
+      "url": "https://www.booking.com/hotel/sg/ann-siang-house.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:29:59.037273+08:00"
+    },
+    {
+      "name": "Courtyard by Marriott Singapore Novena",
+      "url": "https://www.booking.com/hotel/sg/courtyard-by-marriott-singapore-novena-singapore12.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:30:05.587438+08:00"
+    },
+    {
+      "name": "InterContinental Singapore Robertson Quay by IHG",
+      "url": "https://www.booking.com/hotel/sg/intercontinental-singapore-robertson-quay-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 110,
+      "collected_at": "2026-10-29T17:30:15.945528+08:00"
+    },
+    {
+      "name": "Hilton Singapore Orchard",
+      "url": "https://www.booking.com/hotel/sg/hilton-singapore-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 147,
+      "collected_at": "2026-10-29T17:30:24.122880+08:00"
+    },
+    {
+      "name": "Wilby Central Serviced Apartments",
+      "url": "https://www.booking.com/hotel/sg/wilby-residences-central.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:30:29.275883+08:00"
+    },
+    {
+      "name": "Swissotel The Stamford Singapore",
+      "url": "https://www.booking.com/hotel/sg/swissotelsingapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 103,
+      "collected_at": "2026-10-29T17:30:37.469593+08:00"
+    },
+    {
+      "name": "Conrad Singapore Orchard",
+      "url": "https://www.booking.com/hotel/sg/conrad-singapore-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 127,
+      "collected_at": "2026-10-29T17:30:45.652649+08:00"
+    },
+    {
+      "name": "Treetops Executive Residences",
+      "url": "https://www.booking.com/hotel/sg/treetops-executive-residences.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:30:50.804860+08:00"
+    },
+    {
+      "name": "The Clan Hotel Singapore by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/the-clan-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 18,
+      "collected_at": "2026-10-29T17:30:56.026256+08:00"
+    },
+    {
+      "name": "Pan Pacific Orchard",
+      "url": "https://www.booking.com/hotel/sg/pan-pacific-orchard.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 33,
+      "collected_at": "2026-10-29T17:31:02.648326+08:00"
+    },
+    {
+      "name": "Amara Singapore",
+      "url": "https://www.booking.com/hotel/sg/amara-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 54,
+      "collected_at": "2026-10-29T17:31:09.503264+08:00"
+    },
+    {
+      "name": "Pan Pacific Serviced Suites Beach Road, Singapore",
+      "url": "https://www.booking.com/hotel/sg/pan-pacific-serviced-suites-beach-road.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:31:14.762625+08:00"
+    },
+    {
+      "name": "Fraser Residence Orchard Singapore",
+      "url": "https://www.booking.com/hotel/sg/fraser-residence-orchard-singapore-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 11,
+      "collected_at": "2026-10-29T17:31:20.531428+08:00"
+    },
+    {
+      "name": "Shangri-La Apartments",
+      "url": "https://www.booking.com/hotel/sg/shangri-la-apartments.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:31:25.245927+08:00"
+    },
+    {
+      "name": "Mandai Rainforest Resort by Banyan Tree",
+      "url": "https://www.booking.com/hotel/sg/mandai-rainforest-resort-by-banyan-tree.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 14,
+      "collected_at": "2026-10-29T17:31:30.969989+08:00"
+    },
+    {
+      "name": "Duxton Reserve Singapore, Autograph Collection",
+      "url": "https://www.booking.com/hotel/sg/duxton-reserve.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 12,
+      "collected_at": "2026-10-29T17:31:36.234751+08:00"
+    },
+    {
+      "name": "Momentus Hotel Alexandra",
+      "url": "https://www.booking.com/hotel/sg/momentus-alexandra.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 5,
+      "collected_at": "2026-10-29T17:31:42.196793+08:00"
+    },
+    {
+      "name": "The Capitol Kempinski Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/the-capitol-kempinski-singapore-singapore123.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 44,
+      "collected_at": "2026-10-29T17:31:48.554491+08:00"
+    },
+    {
+      "name": "Resorts World Sentosa - Hotel Ora",
+      "url": "https://www.booking.com/hotel/sg/resorts-world-sentosa-ora.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 8,
+      "collected_at": "2026-10-29T17:31:53.707127+08:00"
+    },
+    {
+      "name": "Goodwood Park Hotel",
+      "url": "https://www.booking.com/hotel/sg/goodwood-park.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 25,
+      "collected_at": "2026-10-29T17:31:59.339559+08:00"
+    },
+    {
+      "name": "Conrad Singapore Marina Bay",
+      "url": "https://www.booking.com/hotel/sg/conrad-singapore-marina-bay.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 96,
+      "collected_at": "2026-10-29T17:32:07.807302+08:00"
+    },
+    {
+      "name": "PARKROYAL Serviced Suites Singapore",
+      "url": "https://www.booking.com/hotel/sg/parkroyal-serviced-suites.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 6,
+      "collected_at": "2026-10-29T17:32:13.092190+08:00"
+    },
+    {
+      "name": "Holiday Inn Singapore Orchard City Centre by IHG",
+      "url": "https://www.booking.com/hotel/sg/holiday-inn-park-view.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 35,
+      "collected_at": "2026-10-29T17:32:18.673588+08:00"
+    },
+    {
+      "name": "Pan Pacific Singapore",
+      "url": "https://www.booking.com/hotel/sg/panpacificsingapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 25,
+      "collected_at": "2026-10-29T17:32:25.440578+08:00"
+    },
+    {
+      "name": "Sofitel Singapore City Centre",
+      "url": "https://www.booking.com/hotel/sg/sofitel-singapore-city-centre.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 57,
+      "collected_at": "2026-10-29T17:32:32.776322+08:00"
+    },
+    {
+      "name": "Fairmont Singapore",
+      "url": "https://www.booking.com/hotel/sg/fairmont-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 35,
+      "collected_at": "2026-10-29T17:32:39.299519+08:00"
+    },
+    {
+      "name": "Singapore Marriott Tang Plaza Hotel",
+      "url": "https://www.booking.com/hotel/sg/singapore-marriott.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 36,
+      "collected_at": "2026-10-29T17:32:45.455310+08:00"
+    },
+    {
+      "name": "RELC International Hotel",
+      "url": "https://www.booking.com/hotel/sg/relc-international.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 4,
+      "collected_at": "2026-10-29T17:32:50.025407+08:00"
+    },
+    {
+      "name": "The Barracks Hotel Sentosa by Far East Hospitality",
+      "url": "https://www.booking.com/hotel/sg/the-barracks-by-far-east-hospitality.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:32:55.386453+08:00"
+    },
+    {
+      "name": "Grand Hyatt Singapore",
+      "url": "https://www.booking.com/hotel/sg/grand-hyatt-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 51,
+      "collected_at": "2026-10-29T17:33:01.544173+08:00"
+    },
+    {
+      "name": "Artyzen Singapore",
+      "url": "https://www.booking.com/hotel/sg/artyzen-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 16,
+      "collected_at": "2026-10-29T17:33:07.325688+08:00"
+    },
+    {
+      "name": "PARKROYAL COLLECTION Marina Bay, Singapore",
+      "url": "https://www.booking.com/hotel/sg/marinamandarin.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 47,
+      "collected_at": "2026-10-29T17:33:13.843511+08:00"
+    },
+    {
+      "name": "Nomad Hilton Singapore",
+      "url": "https://www.booking.com/hotel/sg/nomad-hilton-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 48,
+      "collected_at": "2026-10-29T17:33:19.804531+08:00"
+    },
+    {
+      "name": "PARKROYAL COLLECTION Pickering, Singapore",
+      "url": "https://www.booking.com/hotel/sg/parkroyal-on-pickering.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 32,
+      "collected_at": "2026-10-29T17:33:27.308115+08:00"
+    },
+    {
+      "name": "Joyful",
+      "url": "https://www.booking.com/hotel/sg/joyful-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 1,
+      "collected_at": "2026-10-29T17:33:33.429868+08:00"
+    },
+    {
+      "name": "Great World Residences",
+      "url": "https://www.booking.com/hotel/sg/great-world-service-apartments.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 9,
+      "collected_at": "2026-10-29T17:33:39.768116+08:00"
+    },
+    {
+      "name": "Frasers House, a Luxury Collection Hotel, Singapore",
+      "url": "https://www.booking.com/hotel/sg/frasers-house-a-luxury-collection-hotel-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 52,
+      "collected_at": "2026-10-29T17:33:46.651136+08:00"
+    },
+    {
+      "name": "COMO Metropolitan Singapore",
+      "url": "https://www.booking.com/hotel/sg/como-metropolitan-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 23,
+      "collected_at": "2026-10-29T17:33:52.564123+08:00"
+    },
+    {
+      "name": "The Westin Singapore",
+      "url": "https://www.booking.com/hotel/sg/the-westin-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 33,
+      "collected_at": "2026-10-29T17:33:58.141676+08:00"
+    },
+    {
+      "name": "The Fullerton Hotel Singapore",
+      "url": "https://www.booking.com/hotel/sg/the-fullerton-singapore.html?checkin=2027-01-12&checkout=2027-01-20&group_adults=2&group_children=0&no_rooms=1&lang=en-us&selected_currency=SGD",
+      "status": "success",
+      "attempts": 1,
+      "offer_count": 26,
+      "collected_at": "2026-10-29T17:34:04.258970+08:00"
+    }
+  ],
+  "failures": [
+    {
+      "hotel": "The Amazing Inn",
+      "error": "Locator.wait_for: Timeout 25000ms exceeded.\nCall log:\n  - waiting for locator(\"#hprt-table tr[data-block-id] .bui-price-display__value\").first to be visible\n"
+    }
+  ],
+  "run_errors": [],
+  "discovered_count": 338,
+  "phase": "completed",
+  "search_batches": [
+    {
+      "batch": 1,
+      "unique_hotels": 5
+    },
+    {
+      "batch": 2,
+      "unique_hotels": 16
+    },
+    {
+      "batch": 3,
+      "unique_hotels": 31
+    },
+    {
+      "batch": 4,
+      "unique_hotels": 46
+    },
+    {
+      "batch": 5,
+      "unique_hotels": 61
+    },
+    {
+      "batch": 6,
+      "unique_hotels": 76
+    },
+    {
+      "batch": 7,
+      "unique_hotels": 91
+    },
+    {
+      "batch": 8,
+      "unique_hotels": 104
+    },
+    {
+      "batch": 9,
+      "unique_hotels": 119
+    },
+    {
+      "batch": 10,
+      "unique_hotels": 134
+    },
+    {
+      "batch": 11,
+      "unique_hotels": 149
+    },
+    {
+      "batch": 12,
+      "unique_hotels": 164
+    },
+    {
+      "batch": 13,
+      "unique_hotels": 179
+    },
+    {
+      "batch": 14,
+      "unique_hotels": 194
+    },
+    {
+      "batch": 15,
+      "unique_hotels": 205
+    },
+    {
+      "batch": 16,
+      "unique_hotels": 220
+    },
+    {
+      "batch": 17,
+      "unique_hotels": 233
+    },
+    {
+      "batch": 18,
+      "unique_hotels": 248
+    },
+    {
+      "batch": 19,
+      "unique_hotels": 263
+    },
+    {
+      "batch": 20,
+      "unique_hotels": 278
+    },
+    {
+      "batch": 21,
+      "unique_hotels": 293
+    },
+    {
+      "batch": 22,
+      "unique_hotels": 308
+    },
+    {
+      "batch": 23,
+      "unique_hotels": 323
+    },
+    {
+      "batch": 24,
+      "unique_hotels": 338
+    }
+  ],
+  "updated_at": "2026-10-29T17:34:07.231880+08:00",
+  "exchange_rates": {
+    "source": "臺灣銀行即期賣出匯率",
+    "url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
+    "as_of": "2026/10/25 09:25",
+    "twd_per_unit": {
+      "SGD": "25.54",
+      "USD": "32.58"
+    }
+  },
+  "counts": {
+    "offers": 6694,
+    "matched": 3308,
+    "review": 1145,
+    "excluded": 2241
+  },
+  "reported_total": 361,
+  "search_stop_reason": "no_progress",
+  "reparsed_at": "2026-10-29T16:55:13.995214+08:00",
+  "reparse_note": "依原始保存 HTML 補讀同房型 RoomDetails.roomSizeM2；未重新查價，原始報價與蒐集時間保持不變。",
+  "resumed_at": "2026-10-29T17:02:23.106131+08:00"
+}
