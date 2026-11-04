@@ -28,6 +28,15 @@
   --scope-text: #424d48;
 }
 
+.dali-brand {
+  --accent: #a42c42;
+  --accent-dark: #7a2334;
+  --page-glow: rgb(164 44 66 / 12%);
+  --soft-accent: #f1e0e3;
+  --scope-border: rgb(164 44 66 / 28%);
+  --scope-text: #642b37;
+}
+
 html {
   scroll-behavior: smooth;
 }

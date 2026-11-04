@@ -97,6 +97,49 @@
   --note-text: #424d48;
 }
 
+.dali-series-page {
+  --accent: #a42c42;
+  --accent-dark: #7a2334;
+  --page-glow: rgb(164 44 66 / 12%);
+  --soft-accent: #f1e0e3;
+  --note-text: #642b37;
+}
+
+.dali-series-page h1 {
+  font-size: clamp(2.6rem, 7vw, 5.8rem);
+  overflow-wrap: anywhere;
+}
+
+.dali-series-page .spec-section + .spec-section {
+  margin-top: 54px;
+}
+
+.dali-series-page .spec-section,
+.dali-series-page tbody tr {
+  scroll-margin-top: 24px;
+}
+
+.dali-series-page tbody tr:target {
+  background: var(--soft-accent);
+}
+
+.dali-series-page .model-source {
+  display: inline-block;
+  margin-top: 12px;
+  color: var(--accent-dark);
+  font-size: 0.74rem;
+  text-underline-offset: 3px;
+}
+
+.dali-series-page .cell-specs dd {
+  overflow-wrap: anywhere;
+}
+
+.dali-series-page .spec-table-wrap:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}
+
 .compact-spec-page {
   --spec-table-min-width: 0;
 }
