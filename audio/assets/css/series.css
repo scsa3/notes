@@ -275,6 +275,36 @@
   --spec-table-min-width: 1200px;
 }
 
+.kef-series-page,
+.kali-series-page {
+  --spec-table-min-width: 900px;
+}
+
+.series-page .nowrap {
+  white-space: nowrap;
+}
+
+.price-section {
+  margin-top: 68px;
+}
+
+.price-table {
+  min-width: 760px;
+}
+
+.price-table td a {
+  font-weight: 750;
+  text-underline-offset: 3px;
+}
+
+.price-table small {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 400;
+}
+
 html {
   scroll-behavior: smooth;
 }
