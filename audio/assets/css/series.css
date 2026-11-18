@@ -280,6 +280,14 @@
   --spec-table-min-width: 900px;
 }
 
+.ascilab-series-page {
+  --spec-table-min-width: 1180px;
+}
+
+.ascilab-c8c-page h1 {
+  font-size: clamp(2.8rem, 7vw, 5.8rem);
+}
+
 .series-page .nowrap {
   white-space: nowrap;
 }
